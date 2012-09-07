@@ -9,7 +9,7 @@
         }, {
             "name": "Sugarcube",
             "url": "https://github.com/rubymotion/sugarcube",
-            "description": "These extensions hope to make development in rubymotion more enjoyable by tacking 'UI' methods onto the base classes (String, Fixnum, Numeric). With sugarcube, you can create a color from an integer or symbol, or create a UIFont or UIImage from a string.",
+            "description": "These extensions hope to make development in RubyMotion more enjoyable by tacking 'UI' methods onto the base classes (String, Fixnum, Numeric). With sugarcube, you can create a color from an integer or symbol, or create a UIFont or UIImage from a string.",
             "tags": ["Animations", "CGRect", "UIImage", "UIColor", "NSString", "Symbol", "UIAlertView"]
         }, {
             "name": "Nitron",
