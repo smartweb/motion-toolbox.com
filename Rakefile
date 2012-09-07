@@ -70,5 +70,6 @@ task :deploy do
   system "git commit -m 'Sync gh-pages \n #{msg}'"
   system 'git push origin gh-pages'
   system 'git checkout master'
+  system 'git checkout .'
   system 'rm -rf ../_site'
 end
