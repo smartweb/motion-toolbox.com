@@ -56,7 +56,11 @@ task :deploy do
   system 'git checkout gh-pages'
   Dir[`pwd`[0..-2] + "/*"].each do |file|
     skip = ["CNAME", "sitemap", "Rakefile", "README"]
-    next if skip.member? file
+    skipping = false
+    skip.each do |skip_file|
+      skipping = true if skip_file.include? file
+    end
+    next if skipping
     begin
       FileUtils.rm_rf(file)
     rescue
