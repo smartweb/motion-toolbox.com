@@ -15,7 +15,7 @@
     }
 }
 
-.twitter-follow-button {
+.twitter-follow-button, .twitter-share-button {
     position: relative;
     top: 5px;
 }
