@@ -73,6 +73,11 @@
             "url": "https://github.com/clayallsopp/twittermotion",
             "description": "RubyMotion wrapper for the iOS Twitter API.",
             "tags": ["Twitter"]
+        }, {
+            "name": "IB",
+            "url": "https://github.com/yury/ib",
+            "description": "RubyMotion Interface Builder support, including outlets and actions.",
+            "tags": ["Interface Builder"]
         }]
     }]
 }
