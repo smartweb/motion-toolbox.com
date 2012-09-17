@@ -78,6 +78,11 @@
             "url": "https://github.com/yury/ib",
             "description": "RubyMotion Interface Builder support, including outlets and actions.",
             "tags": ["Interface Builder"]
+        }, {
+            "name": "motion-state-machine",
+            "url": "https://github.com/opyh/motion-state-machine",
+            "description": "A Grand Central-aware, simple syntax for state machines.",
+            "tags": ["Views"]
         }]
     }]
 }
