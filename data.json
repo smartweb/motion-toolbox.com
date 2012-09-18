@@ -60,6 +60,11 @@
             "url": "https://github.com/farcaller/motion-fixtures",
             "description": "Simple support for test fixtures.",
             "tags": ["Testing", "Fixtures"]
+        }, {
+            "name": "WebStub",
+            "url": "https://github.com/mattgreen/webstub",
+            "description": "Easily stub out HTTP responses in RubyMotion specs.",
+            "tags": ["Testing", "HTTP", "Mock"]
         }]
     }, {
         "name": "Specific",
