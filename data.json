@@ -69,6 +69,11 @@
     }, {
         "name": "Specific",
         "wrappers": [{
+            "name": "AFMotion",
+            "url": "https://github.com/clayallsopp/afmotion",
+            "description": "A RubyMotion wrapper for AFNetworking",
+            "tags": ["HTTP"]
+        }, {
             "name": "ParseModel",
             "url": "https://github.com/adelevie/ParseModel",
             "description": "An Active Record pattern for your Parse models.",
