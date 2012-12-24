@@ -65,6 +65,11 @@
             "url": "https://github.com/mattgreen/webstub",
             "description": "Easily stub out HTTP responses in RubyMotion specs.",
             "tags": ["Testing", "HTTP", "Mock"]
+        }, {
+            "name": "motion-stump",
+            "url": "https://github.com/siuying/motion-stump",
+            "description": "Stubbing and mocking for RubyMotion",
+            "tags": ["Testing", "Mock"]
         }]
     }, {
         "name": "Specific",
