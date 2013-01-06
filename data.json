@@ -52,6 +52,11 @@
             "url": "https://github.com/clayallsopp/geomotion",
             "description": "Better iOS Geometry with RubyMotion.",
             "tags": ["CGRect"]
+        }, {
+            "name": "Walt",
+            "url": "https://github.com/clayallsopp/Walt",
+            "description": "Frictionless, hash-based iOS animations",
+            "tags": ["Views","Animations"]
         }]
     }, {
         "name": "Testing",
