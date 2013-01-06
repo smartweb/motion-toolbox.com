@@ -98,6 +98,11 @@
             "url": "https://github.com/opyh/motion-state-machine",
             "description": "A Grand Central-aware, simple syntax for state machines.",
             "tags": ["Views"]
+        }, {
+            "name": "motion-ocr",
+            "url": "https://github.com/ferdev/motion-ocr",
+            "description": "A RubyMotion wrapper for the OCR engine Tesseract",
+            "tags": ["OCR"]
         }]
     }]
 }
