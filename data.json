@@ -106,8 +106,13 @@
         }, {
             "name": "motion-ocr",
             "url": "https://github.com/ferdev/motion-ocr",
-            "description": "A RubyMotion wrapper for the OCR engine Tesseract",
+            "description": "A RubyMotion wrapper for the OCR engine Tesseract.",
             "tags": ["OCR"]
+        }, {
+            "name": "motion-addressbook",
+            "url": "https://github.com/alexrothenberg/motion-addressbook",
+            "description": "A RubyMotion wrapper around the iOS Address Book framework.",
+            "tags": ["Address", "AddressBookUI"]
         }]
     }]
 }
