@@ -77,6 +77,19 @@
             "tags": ["Testing", "Mock"]
         }]
     }, {
+        "name": "Project Management",
+        "wrappers": [{
+            "name": "IB",
+            "url": "https://github.com/yury/ib",
+            "description": "RubyMotion Interface Builder support, including outlets and actions.",
+            "tags": ["Interface Builder"]
+        }, {
+            "name": "motion-schemes",
+            "url": "https://github.com/siuying/motion-schemes",
+            "description": "Expand RubyMotion build system to support building multiple apps from one project.",
+            "tags": ["Build"]
+        }]
+    }, {
         "name": "Specific",
         "wrappers": [{
             "name": "AFMotion",
@@ -93,11 +106,6 @@
             "url": "https://github.com/clayallsopp/twittermotion",
             "description": "RubyMotion wrapper for the iOS Twitter API.",
             "tags": ["Twitter"]
-        }, {
-            "name": "IB",
-            "url": "https://github.com/yury/ib",
-            "description": "RubyMotion Interface Builder support, including outlets and actions.",
-            "tags": ["Interface Builder"]
         }, {
             "name": "motion-state-machine",
             "url": "https://github.com/opyh/motion-state-machine",
