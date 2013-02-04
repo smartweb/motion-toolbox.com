@@ -61,7 +61,7 @@
             "name": "AccordionView",
             "url": "https://github.com/toamitkumar/AccordionView",
             "description": "Create and Add Accordion to your UIViews",
-            "tags": ["accordion"]
+            "tags": ["Views","Accordion"]
         }]
     }, {
         "name": "Testing",
