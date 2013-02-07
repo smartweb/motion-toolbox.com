@@ -107,6 +107,11 @@
             "description": "An Active Record pattern for your Parse models.",
             "tags": ["Models", "Storage", "Parse"]
         }, {
+            "name": "Parsistence",
+            "url": "https://github.com/clearsightstudio/Parsistence",
+            "description": "A Parse.com wrapper similar to persistence.js.",
+            "tags": ["Models", "Storage", "Parse"],
+        }, {
             "name": "Twittermotion",
             "url": "https://github.com/clayallsopp/twittermotion",
             "description": "RubyMotion wrapper for the iOS Twitter API.",
@@ -127,10 +132,10 @@
             "description": "A RubyMotion wrapper around the iOS Address Book framework.",
             "tags": ["Address", "AddressBookUI"]
         }, {
-            "name": "Parsistence",
-            "url": "https://github.com/clearsightstudio/Parsistence",
-            "description": "A Parse.com wrapper similar to persistence.js.",
-            "tags": ["Models", "Storage", "Parse"]
+            "name": "motionscan",
+            "url": "https://github.com/jjaffeux/Motionscan",
+            "description": "A RubyMotion wrapper around the image recognition SDK of Moodstocks.com",
+            "tags": ["Image Recognition", "OCR"]
         }]
     }]
 }
