@@ -130,7 +130,7 @@
             "name": "motionscan",
             "url": "https://github.com/jjaffeux/Motionscan",
             "description": "A RubyMotion wrapper around the image recognition SDK of Moodstocks.com",
-            "tags": ["Image recognition", "Scanner", "Barcode"]
+            "tags": ["Image Recognition", "OCR"]
         }]
     }]
 }
