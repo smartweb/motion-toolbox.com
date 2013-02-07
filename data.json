@@ -110,7 +110,7 @@
             "name": "Parsistence",
             "url": "https://github.com/clearsightstudio/Parsistence",
             "description": "A Parse.com wrapper similar to persistence.js.",
-            "tags": ["Models", "Storage", "Parse"],
+            "tags": ["Models", "Storage", "Parse"]
         }, {
             "name": "Twittermotion",
             "url": "https://github.com/clayallsopp/twittermotion",
