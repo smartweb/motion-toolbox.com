@@ -19,7 +19,7 @@
         }, {
             "name": "ProMotion",
             "url": "https://github.com/clearsightstudio/ProMotion",
-            "description": "ProMotion is a full featured RubyMotion framework that makes iPhone development less like Objective-C and more like Ruby, designed to get up and running fast.",
+            "description": "A full featured RubyMotion framework that makes iPhone development less like Objective-C and more like Ruby, designed to get up and running fast.",
             "tags": ["Storyboard", "Screens"]
         }]
     }, {
@@ -52,6 +52,16 @@
             "url": "https://github.com/clayallsopp/geomotion",
             "description": "Better iOS Geometry with RubyMotion.",
             "tags": ["CGRect"]
+        }, {
+            "name": "Walt",
+            "url": "https://github.com/clayallsopp/Walt",
+            "description": "Frictionless, hash-based iOS animations",
+            "tags": ["Views","Animations"]
+        }, {
+            "name": "AccordionView",
+            "url": "https://github.com/toamitkumar/AccordionView",
+            "description": "Create and Add Accordion to your UIViews",
+            "tags": ["Views","Accordion"]
         }]
     }, {
         "name": "Testing",
@@ -60,10 +70,38 @@
             "url": "https://github.com/farcaller/motion-fixtures",
             "description": "Simple support for test fixtures.",
             "tags": ["Testing", "Fixtures"]
+        }, {
+            "name": "WebStub",
+            "url": "https://github.com/mattgreen/webstub",
+            "description": "Easily stub out HTTP responses in RubyMotion specs.",
+            "tags": ["Testing", "HTTP", "Mock"]
+        }, {
+            "name": "motion-stump",
+            "url": "https://github.com/siuying/motion-stump",
+            "description": "Stubbing and mocking for RubyMotion",
+            "tags": ["Testing", "Mock"]
+        }]
+    }, {
+        "name": "Project Management",
+        "wrappers": [{
+            "name": "IB",
+            "url": "https://github.com/yury/ib",
+            "description": "RubyMotion Interface Builder support, including outlets and actions.",
+            "tags": ["Interface Builder"]
+        }, {
+            "name": "motion-schemes",
+            "url": "https://github.com/siuying/motion-schemes",
+            "description": "Expand RubyMotion build system to support building multiple apps from one project.",
+            "tags": ["Build"]
         }]
     }, {
         "name": "Specific",
         "wrappers": [{
+            "name": "AFMotion",
+            "url": "https://github.com/clayallsopp/afmotion",
+            "description": "A RubyMotion wrapper for AFNetworking",
+            "tags": ["HTTP"]
+        }, {
             "name": "ParseModel",
             "url": "https://github.com/adelevie/ParseModel",
             "description": "An Active Record pattern for your Parse models.",
@@ -74,9 +112,24 @@
             "description": "RubyMotion wrapper for the iOS Twitter API.",
             "tags": ["Twitter"]
         }, {
+            "name": "motion-state-machine",
+            "url": "https://github.com/opyh/motion-state-machine",
+            "description": "A Grand Central-aware, simple syntax for state machines.",
+            "tags": ["Views"]
+        }, {
+            "name": "motion-ocr",
+            "url": "https://github.com/ferdev/motion-ocr",
+            "description": "A RubyMotion wrapper for the OCR engine Tesseract.",
+            "tags": ["OCR"]
+        }, {
+            "name": "motion-addressbook",
+            "url": "https://github.com/alexrothenberg/motion-addressbook",
+            "description": "A RubyMotion wrapper around the iOS Address Book framework.",
+            "tags": ["Address", "AddressBookUI"]
+        }, {
             "name": "Parsistence",
             "url": "https://github.com/clearsightstudio/Parsistence",
-            "description": "A different Parse.com wrapper based on ParseModel but modified and extended to be more like persistence.js.",
+            "description": "A Parse.com wrapper similar to persistence.js.",
             "tags": ["Models", "Storage", "Parse"]
         }]
     }]
