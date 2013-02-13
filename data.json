@@ -93,6 +93,11 @@
             "url": "https://github.com/siuying/motion-schemes",
             "description": "Expand RubyMotion build system to support building multiple apps from one project.",
             "tags": ["Build"]
+        }, {
+            "name": "LockOMotion",
+            "url": "https://github.com/archan937/lock-o-motion",
+            "description": "Require and mock Ruby gems (including their dependencies) within RubyMotion applications",
+            "tags": ["Build", "Gems"]
         }]
     }, {
         "name": "Specific",
