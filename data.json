@@ -144,8 +144,8 @@
         }, {
             "name": "can_i",
             "url": "https://github.com/macfanatic/can_i",
-            "description": "A RubyMotion wrapper providing a simple DSL for role authorization, think a simplified CanCan.",
-            "tags": ["ACL", "Authorization", "CanCan"]
+            "description": "A RubyMotion wrapper providing a simple DSL for role authorization, similar to the CanCan gem.",
+            "tags": ["ACL", "Authorization"]
         }]
     }]
 }
