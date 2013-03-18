@@ -107,6 +107,11 @@
             "description": "A RubyMotion wrapper for AFNetworking",
             "tags": ["HTTP"]
         }, {
+            "name": "Motion-Plot",
+            "url": "https://github.com/toamitkumar/motion-plot",
+            "description": "A RubyMotion wrapper for CorePlot",
+            "tags": ["Charts", "Graphs", "CorePlot"]
+        }, {
             "name": "ParseModel",
             "url": "https://github.com/adelevie/ParseModel",
             "description": "An Active Record pattern for your Parse models.",
