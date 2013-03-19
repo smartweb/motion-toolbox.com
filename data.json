@@ -83,7 +83,7 @@
         }, {
             "name": "motion-frank",
             "url": "https://github.com/cyrusinnovation/motion-frank",
-            "description": "A gem to use integration of frank-cucumber into RubyMotion projects.",
+            "description": "A gem to use integrate frank-cucumber into RubyMotion projects.",
             "tags": ["Testing", "Cucumber"]
         }]
     }, {
