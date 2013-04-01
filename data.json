@@ -62,6 +62,11 @@
             "url": "https://github.com/toamitkumar/AccordionView",
             "description": "Create and Add Accordion to your UIViews",
             "tags": ["Views","Accordion"]
+        }, {
+            "name": "motion-layout",
+            "url": "https://github.com/qrush/motion-layout",
+            "description": "A nice way to use Auto Layout in your @RubyMotion app",
+            "tags": ["Views", "Auto Layout"]
         }]
     }, {
         "name": "Testing",
