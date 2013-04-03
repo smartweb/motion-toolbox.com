@@ -176,6 +176,11 @@
             "url": "https://github.com/fearoffish/motion-net-service",
             "description": "A RubyMotion wrapper providing a simple DSL for the Bonjour (NSNetService) zero configuration network protocol.",
             "tags": ["Bonjour", "NSNetService"]
+        }, {
+            "name": "MapKitWrapper",
+            "url": "https://github.com/weibel/MapKitWrapper",
+            "description": "Make dealing with MapKit less painful for RubyMotion",
+            "tags": ["MapKit", "Location"]
         }]
     }]
 }
