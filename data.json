@@ -55,17 +55,17 @@
         }, {
             "name": "Walt",
             "url": "https://github.com/clayallsopp/Walt",
-            "description": "Frictionless, hash-based iOS animations",
+            "description": "Frictionless, hash-based iOS animations.",
             "tags": ["Views","Animations"]
         }, {
             "name": "AccordionView",
             "url": "https://github.com/toamitkumar/AccordionView",
-            "description": "Create and Add Accordion to your UIViews",
+            "description": "Create and add Accordions to your UIViews.",
             "tags": ["Views","Accordion"]
         }, {
             "name": "motion-layout",
             "url": "https://github.com/qrush/motion-layout",
-            "description": "A nice way to use Auto Layout in your @RubyMotion app",
+            "description": "A nice way to use Auto Layout in your RubyMotion app.",
             "tags": ["Views", "Auto Layout"]
         }]
     }, {
@@ -83,7 +83,7 @@
         }, {
             "name": "motion-stump",
             "url": "https://github.com/siuying/motion-stump",
-            "description": "Stubbing and mocking for RubyMotion",
+            "description": "Stubbing and mocking for RubyMotion.",
             "tags": ["Testing", "Mock"]
         }, {
             "name": "motion-frank",
@@ -93,7 +93,7 @@
         }, {
             "name": "awesome_print_motion",
             "url": "https://github.com/michaeldv/awesome_print_motion",
-            "description": "A port of the awesome_print gem to RubyMotion",
+            "description": "A port of the awesome_print gem to RubyMotion.",
             "tags": ["Debug", "Logging"]
         }]
     }, {
@@ -111,12 +111,12 @@
         }, {
             "name": "LockOMotion",
             "url": "https://github.com/archan937/lock-o-motion",
-            "description": "Require and mock Ruby gems (including their dependencies) within RubyMotion applications",
+            "description": "Require and mock Ruby gems (including their dependencies) within RubyMotion applications.",
             "tags": ["Build", "Gems"]
         }, {
             "name": "motion-config-vars",
             "url": "https://github.com/jamescallmebrent/motion-config-vars",
-            "description": "Heroku-style environment configuration for RubyMotion",
+            "description": "Heroku-style environment configuration for RubyMotion.",
             "tags": ["Environment", "Configuration", "API", "Adhoc"]
         }]
     }, {
@@ -124,12 +124,12 @@
         "wrappers": [{
             "name": "AFMotion",
             "url": "https://github.com/clayallsopp/afmotion",
-            "description": "A RubyMotion wrapper for AFNetworking",
+            "description": "A RubyMotion wrapper for AFNetworking.",
             "tags": ["HTTP"]
         }, {
             "name": "Motion-Plot",
             "url": "https://github.com/toamitkumar/motion-plot",
-            "description": "A RubyMotion wrapper for CorePlot",
+            "description": "A RubyMotion wrapper for CorePlot.",
             "tags": ["Charts", "Graphs", "CorePlot"]
         }, {
             "name": "ParseModel",
@@ -164,7 +164,7 @@
         }, {
             "name": "motionscan",
             "url": "https://github.com/jjaffeux/Motionscan",
-            "description": "A RubyMotion wrapper around the image recognition SDK of Moodstocks.com",
+            "description": "A RubyMotion wrapper around the image recognition SDK of Moodstocks.com.",
             "tags": ["Image Recognition", "AR", "Barcode", "Real-Time"]
         }, {
             "name": "can_i",
@@ -179,12 +179,12 @@
         }, {
             "name": "MapKitWrapper",
             "url": "https://github.com/weibel/MapKitWrapper",
-            "description": "Make dealing with MapKit less painful for RubyMotion",
+            "description": "Make dealing with MapKit less painful for RubyMotion.",
             "tags": ["MapKit", "Location"]
         }, {
             "name": "motion-inappmail",
             "url": "https://github.com/Swatto/motion-inappmail",
-            "description": "A RubyMotion wrapper to use email form in your app (MFMailComposeViewController) in a simple rubish way.",
+            "description": "A RubyMotion wrapper to use the email composer in your app.",
             "tags": ["messageUI", "Views", "Email"]
         }]
     }]
