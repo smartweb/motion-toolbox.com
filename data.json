@@ -172,11 +172,6 @@
             "description": "A RubyMotion wrapper providing a simple DSL for role authorization, similar to the CanCan gem.",
             "tags": ["ACL", "Authorization"]
         }, {
-            "name": "motion-net-service",
-            "url": "https://github.com/fearoffish/motion-net-service",
-            "description": "A RubyMotion wrapper providing a simple DSL for the Bonjour (NSNetService) zero configuration network protocol.",
-            "tags": ["Bonjour", "NSNetService"]
-        }, {
             "name": "MapKitWrapper",
             "url": "https://github.com/weibel/MapKitWrapper",
             "description": "Make dealing with MapKit less painful for RubyMotion.",
@@ -191,6 +186,11 @@
             "url": "https://github.com/rubymotion/Joybox",
             "description": "Cocos2D & Box2D Wrapper for RubyMotion.",
             "tags": ["Video Games", "Cocos 2D", "Box 2D"]
+        }, {
+            "name": "motion-net-service",
+            "url": "https://github.com/fearoffish/motion-net-service",
+            "description": "A RubyMotion wrapper providing a simple DSL for the Bonjour (NSNetService) zero configuration network protocol.",
+            "tags": ["Bonjour", "NSNetService"]
         }]
     }]
 }
