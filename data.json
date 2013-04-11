@@ -100,6 +100,11 @@
             "url": "https://github.com/michaeldv/awesome_print_motion",
             "description": "A port of the awesome_print gem to RubyMotion.",
             "tags": ["Debug", "Logging"]
+        }, {
+            "name": "motion-facon",
+            "url": "https://github.com/chuyeow/facon",
+            "description": "A port of Facon mocking library to RubyMotion.",
+            "tags": ["Testing", "Mock"]
         }]
     }, {
         "name": "Project Management",
