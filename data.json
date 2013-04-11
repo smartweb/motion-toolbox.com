@@ -12,6 +12,11 @@
             "description": "These extensions hope to make development in RubyMotion more enjoyable by tacking 'UI' methods onto the base classes (String, Fixnum, Numeric). With sugarcube, you can create a color from an integer or symbol, or create a UIFont or UIImage from a string.",
             "tags": ["Animations", "CGRect", "UIImage", "UIColor", "NSString", "Symbol", "UIAlertView"]
         }, {
+            "name": "Elevate",
+            "url": "https://github.com/mattgreen/elevate",
+            "description": "Streamline your RubyMotion view controllers.",
+            "tags": ["Controllers", "Concurrency"]
+        }, {
             "name": "Nitron",
             "url": "https://github.com/mattgreen/nitron",
             "description": "Nitron is an opinionated, loosely-coupled set of RubyMotion components designed to accelerate iOS development, especially with simpler iOS apps.",
@@ -67,14 +72,6 @@
             "url": "https://github.com/qrush/motion-layout",
             "description": "A nice way to use Auto Layout in your RubyMotion app.",
             "tags": ["Views", "Auto Layout"]
-        }]
-    }, {
-        "name": "Controllers",
-        "wrappers": [{
-            "name": "Elevate",
-            "url": "https://github.com/mattgreen/elevate",
-            "description": "Streamline your RubyMotion view controllers.",
-            "tags": ["Controllers", "Concurrency"]
         }]
     }, {
         "name": "Testing",
