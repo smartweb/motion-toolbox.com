@@ -101,6 +101,11 @@
             "description": "A port of the awesome_print gem to RubyMotion.",
             "tags": ["Debug", "Logging"]
         }, {
+            "name": "motion-colorize",
+            "url": "https://github.com/clayallsopp/motion-colorize",
+            "description": "Add some color to your RubyMotion output.",
+            "tags": ["Debug", "Logging"]
+        }, {
             "name": "motion-facon",
             "url": "https://github.com/chuyeow/facon",
             "description": "A port of Facon mocking library to RubyMotion.",
