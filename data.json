@@ -26,6 +26,11 @@
             "url": "https://github.com/clearsightstudio/ProMotion",
             "description": "A full featured RubyMotion framework that makes iPhone development less like Objective-C and more like Ruby, designed to get up and running fast.",
             "tags": ["Storyboard", "Screens"]
+        }, {
+            "name": "motion-support",
+            "url": "https://github.com/tkadauke/motion-support",
+            "description": "A port of ActiveSupport to RubyMotion",
+            "tags": ["Models", "Rails"]
         }]
     }, {
         "name": "Models",
