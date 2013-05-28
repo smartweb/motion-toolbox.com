@@ -229,7 +229,12 @@
         }, {
             "name": "Motion Parse",
             "url": "https://github.com/tkadauke/motion-parse",
-            "description": "Thin wrapper around the Parse SDK for RubyMotion",
+            "description": "Thin wrapper around the Parse SDK for RubyMotion.",
+            "tags": ["HTTP", "Notifications", "Social"]
+        }, {
+            "name": "ParseModel",
+            "url": "https://github.com/adelevie/ParseModel",
+            "description": "An Active Record pattern for your Parse models on RubyMotion.",
             "tags": ["HTTP", "Notifications", "Social"]
         }]
     }, {
