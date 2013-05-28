@@ -167,6 +167,11 @@
             "description": "An Active Record pattern for your Parse models.",
             "tags": ["Models", "Storage", "Parse"]
         }, {
+            "name": "Motion Parse",
+            "url": "https://github.com/tkadauke/motion-parse",
+            "description": "Thin wrapper around the Parse SDK for RubyMotion.",
+            "tags": ["HTTP", "Notifications", "Social"]
+        }, {
             "name": "Parsistence",
             "url": "https://github.com/clearsightstudio/Parsistence",
             "description": "A Parse.com wrapper similar to persistence.js.",
@@ -227,27 +232,17 @@
             "description": "A RubyMotion wrapper for the Store Kit Framework",
             "tags": ["Store Kit", "In-App Purchases"]
         }, {
-            "name": "Motion Parse",
-            "url": "https://github.com/tkadauke/motion-parse",
-            "description": "Thin wrapper around the Parse SDK for RubyMotion.",
-            "tags": ["HTTP", "Notifications", "Social"]
-        }, {
-            "name": "ParseModel",
-            "url": "https://github.com/adelevie/ParseModel",
-            "description": "An Active Record pattern for your Parse models on RubyMotion.",
-            "tags": ["HTTP", "Notifications", "Social"]
-        }, {
             "name": "motion-firebase",
             "url": "https://github.com/colinta/motion-firebase",
-            "description": "A RubyMotion wrapper for the Firebase SDK. Adds more rubyesque methods to the built-in classes.",
-            "tags": ["Cloud"]
+            "description": "A RubyMotion wrapper for the Firebase SDK.",
+            "tags": ["Firebase", "Cloud"]
         }]
     }, {
-        "name": "Bootstrap",
+        "name": "Templates",
         "wrappers": [{
             "name": "MotionTemplate",
             "url": "https://github.com/IconoclastLabs/MotionTemplate",
-            "description": "A clean RubyMotion project for quickly templating a styled application. RubyMotion Template.",
+            "description": "A clean RubyMotion project for quickly templating a styled application.",
             "tags": ["Design", "Graphic"]
         }]
     }]
