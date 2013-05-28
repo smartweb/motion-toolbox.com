@@ -222,5 +222,13 @@
             "description": "A RubyMotion wrapper for the Store Kit Framework",
             "tags": ["Store Kit", "In-App Purchases"]
         }]
+    }, {
+        "name": "Bootstrap",
+        "wrappers": [{
+            "name": "MotionTemplate",
+            "url": "https://github.com/IconoclastLabs/MotionTemplate",
+            "description": "A clean RubyMotion project for quickly templating a styled application. RubyMotion Template.",
+            "tags": ["Design", "Graphic"]
+        }]
     }]
 }
