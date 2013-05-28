@@ -236,6 +236,11 @@
             "url": "https://github.com/adelevie/ParseModel",
             "description": "An Active Record pattern for your Parse models on RubyMotion.",
             "tags": ["HTTP", "Notifications", "Social"]
+        }, {
+            "name": "motion-firebase",
+            "url": "https://github.com/colinta/motion-firebase",
+            "description": "A RubyMotion wrapper for the Firebase SDK. Adds more rubyesque methods to the built-in classes.",
+            "tags": ["Cloud"]
         }]
     }, {
         "name": "Bootstrap",
