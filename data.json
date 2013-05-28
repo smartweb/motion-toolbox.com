@@ -226,6 +226,11 @@
             "url": "https://github.com/ivanacostarubio/helu",
             "description": "A RubyMotion wrapper for the Store Kit Framework",
             "tags": ["Store Kit", "In-App Purchases"]
+        }, {
+            "name": "Motion Parse",
+            "url": "https://github.com/tkadauke/motion-parse",
+            "description": "Thin wrapper around the Parse SDK for RubyMotion",
+            "tags": ["HTTP", "Notifications", "Social"]
         }]
     }, {
         "name": "Bootstrap",
