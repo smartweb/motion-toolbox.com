@@ -120,6 +120,11 @@
             "url": "https://github.com/chuyeow/facon",
             "description": "A port of Facon mocking library to RubyMotion.",
             "tags": ["Testing", "Mock"]
+        }, {
+            "name": "guard-motion",
+            "url": "https://github.com/mordaroso/guard-motion",
+            "description": "Guard::Motion automatically run your RubyMotion specs (much like autotest)",
+            "tags": ["Testing", "Spec"]
         }]
     }, {
         "name": "Project Management",
