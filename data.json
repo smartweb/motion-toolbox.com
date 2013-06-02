@@ -241,6 +241,11 @@
             "url": "https://github.com/colinta/motion-firebase",
             "description": "A RubyMotion wrapper for the Firebase SDK.",
             "tags": ["Firebase", "Cloud"]
+        }, {
+            "name": "simple_si",
+            "url": "https://github.com/Sumi-Interactive/SIAlertView",
+            "description": "A RubyMotionw rapper for SIAlertView",
+            "tags": ["Alert"]
         }]
     }, {
         "name": "Templates",
