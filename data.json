@@ -244,7 +244,7 @@
         }, {
             "name": "simple_si",
             "url": "https://github.com/Sumi-Interactive/SIAlertView",
-            "description": "A RubyMotionw rapper for SIAlertView",
+            "description": "A RubyMotion wrapper for SIAlertView",
             "tags": ["Alert"]
         }]
     }, {
