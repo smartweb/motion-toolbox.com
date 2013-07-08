@@ -65,7 +65,7 @@
             <hr class="visible-desktop" />
           <div style="clear:both;"></div>
           </div>
-          <% category["wrappers"].each do |wrapper| %>
+          <% category["wrappers"].each_with_index do |wrapper, index| %>
           <div class="span6">
             <div class="well wrapper-info">
               <div class="wrapper-title">
@@ -83,6 +83,9 @@
               </div>
             </div>
           </div>
+          <% if index.odd? && index > 0 %>
+            <div style="clear:both"></div>
+            <% end %>
           <% end %>
         <% end %>
       </div>
