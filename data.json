@@ -5,7 +5,7 @@
             "name": "BubbleWrap",
             "url": "http://bubblewrap.io",
             "description": "A collection of (tested) helpers and wrappers used to wrap CocoaTouch code and provide more Ruby like APIs.",
-            "tags": ["JSON",  "HTTP", "RSS", "XML", "Camera", "CoreLocation", "Audio", "Video"]
+            "tags": ["JSON",  "HTTP", "RSS", "XML", "Camera", "CoreLocation", "Audio", "Video", "iOS", "OS X"]
         }, {
             "name": "Sugarcube",
             "url": "https://github.com/rubymotion/sugarcube",
@@ -61,7 +61,7 @@
             "name": "Teacup",
             "url": "https://github.com/rubymotion/teacup",
             "description": "A community-driven DSL for creating user interfaces on the iPhone.",
-            "tags": ["Views", "Stylesheets"]
+            "tags": ["Views", "Stylesheets", "iOS", "OS X"]
         }, {
             "name": "Geomotion",
             "url": "https://github.com/clayallsopp/geomotion",
@@ -225,7 +225,7 @@
             "name": "Joybox",
             "url": "https://github.com/rubymotion/Joybox",
             "description": "Cocos2D & Box2D Wrapper for RubyMotion.",
-            "tags": ["Video Games", "Cocos 2D", "Box 2D"]
+            "tags": ["Video Games", "Cocos 2D", "Box 2D", "iOS", "OS X"]
         }, {
             "name": "Helu",
             "url": "https://github.com/ivanacostarubio/helu",
