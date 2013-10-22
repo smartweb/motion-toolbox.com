@@ -286,6 +286,11 @@
             "description": "Notifications for the statusbar.",
             "url": "https://github.com/holgersindbaek/StatusBar",
             "tags": ["Alert", "Progress", "Overlay"]
+        }, {
+            "name": "motion-csv",
+            "description": "A RubyMotion friendly CSV parser gem.",
+            "url": "https://github.com/markrickert/motion-csv",
+            "tags": ["CSV"]
         }]
     }, {
         "name": "Templates",
