@@ -36,6 +36,11 @@
             "url": "https://github.com/tkadauke/motion-support",
             "description": "A port of ActiveSupport to RubyMotion",
             "tags": ["Models", "Rails"]
+        }, {
+            "name": "Turnkey",
+            "url": "https://github.com/seldomatt/TurnKey",
+            "description": "Utility for saving custom objects to NSUserDefaults using NSKeyedArchiver and NSKeyedUnarchiver",
+            "tags": ["Persistence", "Defaults", "NSCoder"]
         }]
     }, {
         "name": "Models",
