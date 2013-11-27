@@ -41,6 +41,11 @@
             "url": "https://github.com/seldomatt/TurnKey",
             "description": "Utility for saving custom objects to NSUserDefaults using NSKeyedArchiver and NSKeyedUnarchiver",
             "tags": ["Persistence", "Defaults", "NSCoder"]
+        }, {
+            "name": "motion-acknowledgements",
+            "url": "https://github.com/MohawkApps/motion-acknowledgements",
+            "description": "This gem makes it easy to include the CocoaPods acknowledgements file in your application.",
+            "tags": ["CocoaPods", "Settings", "Credits"]
         }]
     }, {
         "name": "Models",
