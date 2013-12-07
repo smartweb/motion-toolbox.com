@@ -306,6 +306,11 @@
             "description": "A RubyMotion friendly CSV parser gem.",
             "url": "https://github.com/markrickert/motion-csv",
             "tags": ["CSV"]
+        }, {
+            "name": "motion-takeoff",
+            "description": "A gem for scheduling stuff. You can use motion-takeoff to display messages at certain launch counts and schedule local notifications.",
+            "url": "https://github.com/MohawkApps/motion-takeoff",
+            "tags": ["Reminders", "UILocalNotification", "Scheduling"]
         }]
     }, {
         "name": "Templates",
