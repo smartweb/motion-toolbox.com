@@ -304,7 +304,7 @@
         }, {
             "name": "motion-csv",
             "description": "A RubyMotion friendly CSV parser gem.",
-            "url": "https://github.com/markrickert/motion-csv",
+            "url": "https://github.com/MohawkApps/motion-csv",
             "tags": ["CSV"]
         }, {
             "name": "motion-takeoff",
