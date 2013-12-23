@@ -46,6 +46,11 @@
             "url": "https://github.com/MohawkApps/motion-acknowledgements",
             "description": "This gem makes it easy to include the CocoaPods acknowledgements file in your application.",
             "tags": ["CocoaPods", "Settings", "Credits"]
+        }, {
+            "name": "motion-bindable",
+            "url": "https://github.com/nathankot/motion-bindable",
+            "description": "Create two-way bindings between your models and view objects (or any other object.)",
+            "tags": ["Bindings"]
         }]
     }, {
         "name": "Models",
