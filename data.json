@@ -36,6 +36,21 @@
             "url": "https://github.com/tkadauke/motion-support",
             "description": "A port of ActiveSupport to RubyMotion",
             "tags": ["Models", "Rails"]
+        }, {
+            "name": "Turnkey",
+            "url": "https://github.com/seldomatt/TurnKey",
+            "description": "Utility for saving custom objects to NSUserDefaults using NSKeyedArchiver and NSKeyedUnarchiver",
+            "tags": ["Persistence", "Defaults", "NSCoder"]
+        }, {
+            "name": "motion-acknowledgements",
+            "url": "https://github.com/MohawkApps/motion-acknowledgements",
+            "description": "This gem makes it easy to include the CocoaPods acknowledgements file in your application.",
+            "tags": ["CocoaPods", "Settings", "Credits"]
+        }, {
+            "name": "motion-bindable",
+            "url": "https://github.com/nathankot/motion-bindable",
+            "description": "Create two-way bindings between your models and view objects (or any other object.)",
+            "tags": ["Bindings"]
         }]
     }, {
         "name": "Models",
@@ -158,6 +173,11 @@
             "url": "https://github.com/colinta/motion-xray",
             "description": "An iOS Inspector that runs inside your app, so you can debug and analyze from your device in real-world situations.",
             "tags": ["Inspector", "Debugger", "Interactive Console"]
+        }, {
+            "name": "motion-sparkle",
+            "url": "https://github.com/webcracy/motion-sparkle",
+            "description": "motion-sparkle makes it easy to use Sparkle with your RubyMotion projects",
+            "tags": ["OS X", "Distribution", "Build", "Configuration", "Updates", "Releases"]
         }]
     }, {
         "name": "Specific",
@@ -237,6 +257,11 @@
             "description": "A RubyMotion wrapper for the Store Kit Framework",
             "tags": ["Store Kit", "In-App Purchases"]
         }, {
+            "name": "Motion-Social",
+            "url": "https://github.com/ivanacostarubio/motion-social",
+            "description": "Wrapper around the Social Framework",
+            "tags": ["Social"]
+        }, {
             "name": "motion-net-service",
             "url": "https://github.com/fearoffish/motion-net-service",
             "description": "A RubyMotion wrapper providing a simple DSL for the Bonjour (NSNetService) zero configuration network protocol.",
@@ -248,7 +273,7 @@
             "tags": ["Firebase", "Cloud"]
         }, {
             "name": "simple_si",
-            "url": "https://github.com/Sumi-Interactive/SIAlertView",
+            "url": "https://github.com/forrestgrant/simple_si",
             "description": "A RubyMotion wrapper for SIAlertView",
             "tags": ["Alert"]
         }, {
@@ -256,28 +281,48 @@
             "url": "https://github.com/phrase/motion-phrase",
             "description": "Connect your RubyMotion project with <a href=\"https://phraseapp.com\" target=\"_blank\">PhraseApp</a> for easy app internationalization. Translatable strings are exported while browsing the app and then managable through the PhraseApp translation editor.",
             "tags": ["Internationalization", "i18n", "Localization", "l10n"]
-	}, {
-	    "name": "motion-accessibility",
+	      }, {
+	          "name": "motion-accessibility",
             "description": "Making accessibility accessible. RubyMotion Wrappers around the UIAccessibility protocols. Easily interact with Apple's impressive array of assistive technologies, including VoiceOver.",
             "url": "https://github.com/austinseraphin/motion-accessibility",
             "tags": ["accessibility", "a11y", "voiceover"]
-       }, {
-	    "name": "motion-blitz",
+        }, {
+	          "name": "motion-blitz",
             "description": "RubyMotion wrapper for SVProgressHUD",
             "url": "https://github.com/dblandin/motion-blitz",
             "tags": ["Alert", "Progress", "Overlay"]
-       }]
+        }, {
+	          "name": "motion-objection",
+            "description": "RubyMotion wrapper for Objection",
+            "url": "https://github.com/atomicobject/motion-objection",
+            "tags": ["Dependency Injection"]
+        }, {
+            "name": "RackMotion",
+            "url": "https://github.com/drewbug/RackMotion",
+            "description": "Intercept and alter HTTP requests and responses in RubyMotion",
+            "tags": ["HTTP"]
+        }, {
+            "name": "StatusBar",
+            "description": "Notifications for the statusbar.",
+            "url": "https://github.com/holgersindbaek/StatusBar",
+            "tags": ["Alert", "Progress", "Overlay"]
+        }, {
+            "name": "motion-csv",
+            "description": "A RubyMotion friendly CSV parser gem.",
+            "url": "https://github.com/MohawkApps/motion-csv",
+            "tags": ["CSV"]
+        }, {
+            "name": "motion-takeoff",
+            "description": "A gem for scheduling stuff. You can use motion-takeoff to display messages at certain launch counts and schedule local notifications.",
+            "url": "https://github.com/MohawkApps/motion-takeoff",
+            "tags": ["Reminders", "UILocalNotification", "Scheduling"]
+        }]
     }, {
         "name": "Templates",
         "wrappers": [{
             "name": "MotionTemplate",
             "url": "https://github.com/IconoclastLabs/MotionTemplate",
             "description": "A clean RubyMotion project for quickly templating a styled application.",
-            "tags": ["Design", "Graphic"]
-        }, {
-            "name": "smart-ios",
-            "url": "https://github.com/IconoclastLabs/smart-ios",
-            "description": "Your basic RubyMotion ios template but with bundler.",
             "tags": ["Design", "Graphic"]
         }, {
             "name": "ProMotion",
