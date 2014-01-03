@@ -281,18 +281,18 @@
             "url": "https://github.com/phrase/motion-phrase",
             "description": "Connect your RubyMotion project with <a href=\"https://phraseapp.com\" target=\"_blank\">PhraseApp</a> for easy app internationalization. Translatable strings are exported while browsing the app and then managable through the PhraseApp translation editor.",
             "tags": ["Internationalization", "i18n", "Localization", "l10n"]
-	      }, {
-	          "name": "motion-accessibility",
+        }, {
+            "name": "motion-accessibility",
             "description": "Making accessibility accessible. RubyMotion Wrappers around the UIAccessibility protocols. Easily interact with Apple's impressive array of assistive technologies, including VoiceOver.",
             "url": "https://github.com/austinseraphin/motion-accessibility",
             "tags": ["accessibility", "a11y", "voiceover"]
         }, {
-	          "name": "motion-blitz",
+            "name": "motion-blitz",
             "description": "RubyMotion wrapper for SVProgressHUD",
             "url": "https://github.com/dblandin/motion-blitz",
             "tags": ["Alert", "Progress", "Overlay"]
         }, {
-	          "name": "motion-objection",
+            "name": "motion-objection",
             "description": "RubyMotion wrapper for Objection",
             "url": "https://github.com/atomicobject/motion-objection",
             "tags": ["Dependency Injection"]
@@ -316,6 +316,11 @@
             "description": "A gem for scheduling stuff. You can use motion-takeoff to display messages at certain launch counts and schedule local notifications.",
             "url": "https://github.com/MohawkApps/motion-takeoff",
             "tags": ["Reminders", "UILocalNotification", "Scheduling"]
+        }, {
+            "name": "Vendor",
+            "description": "A RubyMotion StoreKit Wrapper that allows you to buy, restore and get product info on your in app purchases and subscriptions.",
+            "url": "https://github.com/holgersindbaek/Vendor",
+            "tags": ["Store Kit", "Purchase", "In-App Purchase"]
         }]
     }, {
         "name": "Templates",
