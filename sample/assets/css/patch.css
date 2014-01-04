@@ -73,7 +73,7 @@
     font-weight: bold;
 }
 
-.wrapper-body {
+.wrapper-body, .wrapper-gem {
     padding: 19px;
     border-bottom: 1px solid #eee;
 }
