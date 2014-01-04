@@ -68,7 +68,12 @@
             "name": "MotionDataWrapper",
             "url": "https://github.com/macfanatic/motion_data_wrapper",
             "description": "Intuitive querying and persistence of CoreData models, using Xcode to define entities, validations, relationships and migrations.",
-            "tags": ["Models", "CoreData"]
+            "tags": ["Models", "Core Data"]
+        },{
+            "name": "Core Data Query - CDQ",
+            "url": "https://github.com/infinitered/cdq",
+            "description": "Easy-to-set-up library for using Core Data without Xcode",
+            "tags": ["Models", "Core Data", "Schema", "Persistence"]
         }]
     }, {
         "name": "Views",
