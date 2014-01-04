@@ -85,6 +85,7 @@
         },{
             "name": "Core Data Query - CDQ",
             "url": "https://github.com/infinitered/cdq",
+            "gem_name": "cdq",
             "description": "Easy-to-set-up library for using Core Data without Xcode",
             "tags": ["Models", "Core Data", "Schema", "Persistence"]
         }]
