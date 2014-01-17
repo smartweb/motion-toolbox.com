@@ -58,6 +58,16 @@
 </p>
       </div>
 
+      <div class="row hidden-phone" >
+        <div class="span12 category-info">
+          <h2>Filter By Tag</h2>
+          <hr class="visible-desktop" />
+          <div style="clear:both;"></div>
+        </div>
+        <div class="span12 tag-search">
+        </div>
+      </div>
+
       <div class="row">
         <% @categories.each_with_index do |category,index| %>
           <div class="span12 category-info">
@@ -80,7 +90,7 @@
                 </div>
               <% end %>
               <div class="wrapper-tags">
-                <% wrapper["tags"].each do |tag| %>
+                <% wrapper["tags"].uniq.each do |tag| %>
                   <div class="wrapper-tag">
                     <%= tag %>
                   </div>
@@ -89,7 +99,7 @@
             </div>
           </div>
           <% if index.odd? && index > 0 %>
-            <div style="clear:both"></div>
+            <div class="clear" style="clear:both"></div>
             <% end %>
           <% end %>
         <% end %>
@@ -102,5 +112,7 @@
 
       <hr />
     </div> <!-- /container -->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js" ></script>
+    <script src="assets/js/app.js" ></script>
   </body>
 </html>
