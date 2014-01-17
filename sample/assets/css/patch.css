@@ -122,10 +122,10 @@
 }
 
 /* Tags */
-div.tag-search div.wrapper-tag {
+.tag-search .wrapper-tag {
   cursor: pointer;
 }
-div.tag-search div.wrapper-tag.active {
+.tag-search .wrapper-tag.active {
   background-color: #3A87AD;
   color: #FFFFFF;
 }
