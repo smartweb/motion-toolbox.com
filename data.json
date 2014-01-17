@@ -321,7 +321,7 @@
             "gem_name": "helu",
             "url": "https://github.com/ivanacostarubio/helu",
             "description": "A RubyMotion wrapper for the Store Kit Framework",
-            "tags": ["Store Kit", "In-App Purchases"]
+            "tags": ["StoreKit", "IAP"]
         }, {
             "name": "Motion-Social",
             "gem_name": "motion-social",
@@ -399,7 +399,7 @@
             "description": "A RubyMotion StoreKit Wrapper that allows you to buy, restore and get product info on your in app purchases and subscriptions.",
             "gem_name": "rm_vendor",
             "url": "https://github.com/holgersindbaek/Vendor",
-            "tags": ["Store Kit", "Purchase", "In-App Purchase"]
+            "tags": ["StoreKit", "IAP"]
         }]
     }, {
         "name": "Templates",
