@@ -12,7 +12,7 @@
             "gem_name": "sugarcube",
             "url": "https://github.com/rubymotion/sugarcube",
             "description": "These extensions hope to make development in RubyMotion more enjoyable by tacking 'UI' methods onto the base classes (String, Fixnum, Numeric). With sugarcube, you can create a color from an integer or symbol, or create a UIFont or UIImage from a string.",
-            "tags": ["Animations", "CGRect", "UIImage", "UIColor", "NSString", "Symbol", "UIAlertView"]
+            "tags": ["Animations", "CGRect", "UIImage", "UIColor", "NSString", "Symbol", "Alerts"]
         }, {
             "name": "RubyMotionQuery - RMQ",
             "gem_name": "ruby_motion_query",
@@ -345,7 +345,7 @@
             "gem_name": "simple_si",
             "url": "https://github.com/forrestgrant/simple_si",
             "description": "A RubyMotion wrapper for SIAlertView",
-            "tags": ["Alert"]
+            "tags": ["Alerts"]
         }, {
             "name": "motion-phrase",
             "gem_name": "motion-phrase",
@@ -363,7 +363,7 @@
             "description": "RubyMotion wrapper for SVProgressHUD",
             "gem_name": "motion-blitz",
             "url": "https://github.com/dblandin/motion-blitz",
-            "tags": ["Alert", "Progress", "Overlay"]
+            "tags": ["Alerts", "Progress", "Overlay"]
         }, {
             "name": "motion-objection",
             "description": "RubyMotion wrapper for Objection",
@@ -381,7 +381,7 @@
             "description": "Notifications for the statusbar.",
             "gem_name": "status_bar",
             "url": "https://github.com/holgersindbaek/StatusBar",
-            "tags": ["Alert", "Progress", "Overlay"]
+            "tags": ["Alerts", "Progress", "Overlay"]
         }, {
             "name": "motion-csv",
             "description": "A RubyMotion friendly CSV parser gem.",
