@@ -120,3 +120,12 @@
     font-weight:200;
     margin-right: 10px;
 }
+
+/* Tags */
+.tag-search .wrapper-tag {
+  cursor: pointer;
+}
+.tag-search .wrapper-tag.active {
+  background-color: #3A87AD;
+  color: #FFFFFF;
+}
