@@ -6,7 +6,7 @@
             "gem_name": "bubble-wrap",
             "url": "http://bubblewrap.io",
             "description": "A collection of (tested) helpers and wrappers used to wrap CocoaTouch code and provide more Ruby like APIs.",
-            "tags": ["JSON",  "HTTP", "RSS", "XML", "Camera", "CoreLocation", "Audio", "Video", "iOS", "OS X"]
+            "tags": ["JSON",  "HTTP", "RSS", "XML", "Camera", "CoreLocation", "Audio", "Video", "OS X"]
         }, {
             "name": "Sugarcube",
             "gem_name": "sugarcube",
@@ -18,7 +18,7 @@
             "gem_name": "ruby_motion_query",
             "url": "http://infinitered.com/rmq",
             "description": "A light, non-magical, non-polluting, jQuery-like library",
-            "tags": ["Controllers", "Views", "Events", "Gestures", "Stylesheets", "iOS", "Animations", "UIImage", "UIColor", "UIFont", "Device", "App"]
+            "tags": ["Controllers", "Views", "Events", "Gestures", "Stylesheets", "Animations", "UIImage", "UIColor", "UIFont", "Device", "App"]
         }, {
             "name": "Elevate",
             "gem_name": "elevate",
@@ -102,7 +102,7 @@
             "gem_name": "teacup",
             "url": "https://github.com/rubymotion/teacup",
             "description": "A community-driven DSL for creating user interfaces on the iPhone.",
-            "tags": ["Views", "Stylesheets", "iOS", "OS X"]
+            "tags": ["Views", "Stylesheets", "OS X"]
         }, {
             "name": "Geomotion",
             "gem_name": "geomotion",
@@ -315,7 +315,7 @@
             "gem_name": "joybox",
             "url": "https://github.com/rubymotion/Joybox",
             "description": "Cocos2D & Box2D Wrapper for RubyMotion.",
-            "tags": ["Video Games", "Cocos 2D", "Box 2D", "iOS", "OS X"]
+            "tags": ["Video Games", "Cocos 2D", "Box 2D", "OS X"]
         }, {
             "name": "Helu",
             "gem_name": "helu",
