@@ -210,7 +210,7 @@
             "gem_name": "motion-xray",
             "url": "https://github.com/colinta/motion-xray",
             "description": "An iOS Inspector that runs inside your app, so you can debug and analyze from your device in real-world situations.",
-            "tags": ["Inspector", "Debugger", "Interactive Console"]
+            "tags": ["Inspector", "Debug", "Interactive Console"]
         }, {
             "name": "motion-sparkle",
             "gem_name": "motion-sparkle",
@@ -321,7 +321,7 @@
             "gem_name": "helu",
             "url": "https://github.com/ivanacostarubio/helu",
             "description": "A RubyMotion wrapper for the Store Kit Framework",
-            "tags": ["StoreKit", "IAP"]
+            "tags": ["StoreKit", "In App Purchase"]
         }, {
             "name": "Motion-Social",
             "gem_name": "motion-social",
@@ -399,7 +399,7 @@
             "description": "A RubyMotion StoreKit Wrapper that allows you to buy, restore and get product info on your in app purchases and subscriptions.",
             "gem_name": "rm_vendor",
             "url": "https://github.com/holgersindbaek/Vendor",
-            "tags": ["StoreKit", "IAP"]
+            "tags": ["StoreKit", "In App Purchase"]
         }]
     }, {
         "name": "Templates",
