@@ -6,7 +6,7 @@
             "gem_name": "bubble-wrap",
             "url": "http://bubblewrap.io",
             "description": "A collection of (tested) helpers and wrappers used to wrap CocoaTouch code and provide more Ruby like APIs.",
-            "tags": ["JSON",  "HTTP", "RSS", "XML", "Camera", "CoreLocation", "Audio", "Video", "OS X"]
+            "tags": ["JSON",  "HTTP", "RSS", "XML", "Camera", "CoreLocation", "Audio", "Video", "OS X", "Email", "UIColor", "Device", "Notifications", "Defaults", "Gestures", "Alerts"]
         }, {
             "name": "Sugarcube",
             "gem_name": "sugarcube",
