@@ -135,25 +135,25 @@
             "gem_name": "motion-fixtures",
             "url": "https://github.com/farcaller/motion-fixtures",
             "description": "Simple support for test fixtures.",
-            "tags": ["Testing", "Fixtures"]
+            "tags": ["Fixtures"]
         }, {
             "name": "WebStub",
             "gem_name": "webstub",
             "url": "https://github.com/mattgreen/webstub",
             "description": "Easily stub out HTTP responses in RubyMotion specs.",
-            "tags": ["Testing", "HTTP", "Mock"]
+            "tags": ["HTTP", "Mock"]
         }, {
             "name": "motion-stump",
             "gem_name": "motion-stump",
             "url": "https://github.com/siuying/motion-stump",
             "description": "Stubbing and mocking for RubyMotion.",
-            "tags": ["Testing", "Mock"]
+            "tags": ["Mock"]
         }, {
             "name": "motion-frank",
             "gem_name": "motion-frank",
             "url": "https://github.com/cyrusinnovation/motion-frank",
             "description": "A gem to use integrate frank-cucumber into RubyMotion projects.",
-            "tags": ["Testing", "Cucumber"]
+            "tags": ["Cucumber"]
         }, {
             "name": "awesome_print_motion",
             "gem_name": "awesome_print_motion",
@@ -171,13 +171,13 @@
             "gem_name": "facon",
             "url": "https://github.com/chuyeow/facon",
             "description": "A port of Facon mocking library to RubyMotion.",
-            "tags": ["Testing", "Mock"]
+            "tags": ["Mock"]
         }, {
             "name": "guard-motion",
             "gem_name": "guard-motion",
             "url": "https://github.com/mordaroso/guard-motion",
             "description": "Guard::Motion automatically run your RubyMotion specs (much like autotest)",
-            "tags": ["Testing", "Spec"]
+            "tags": ["Spec"]
         }]
     }, {
         "name": "Project Management",
