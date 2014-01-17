@@ -351,13 +351,13 @@
             "gem_name": "motion-phrase",
             "url": "https://github.com/phrase/motion-phrase",
             "description": "Connect your RubyMotion project with <a href=\"https://phraseapp.com\" target=\"_blank\">PhraseApp</a> for easy app internationalization. Translatable strings are exported while browsing the app and then managable through the PhraseApp translation editor.",
-            "tags": ["Internationalization", "i18n", "Localization", "l10n"]
+            "tags": ["i18n", "Localization"]
         }, {
             "name": "motion-accessibility",
             "description": "Making accessibility accessible. RubyMotion Wrappers around the UIAccessibility protocols. Easily interact with Apple's impressive array of assistive technologies, including VoiceOver.",
             "gem_name": "motion-accessibility",
             "url": "https://github.com/austinseraphin/motion-accessibility",
-            "tags": ["accessibility", "a11y", "voiceover"]
+            "tags": ["Accessibility", "Voiceover"]
         }, {
             "name": "motion-blitz",
             "description": "RubyMotion wrapper for SVProgressHUD",
