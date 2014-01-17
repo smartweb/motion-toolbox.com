@@ -285,7 +285,7 @@
             "gem_name": "motion-addressbook",
             "url": "https://github.com/alexrothenberg/motion-addressbook",
             "description": "A RubyMotion wrapper around the iOS & OSX Address Book frameworks.",
-            "tags": ["Address", "AddressBookUI"]
+            "tags": ["AddressBookUI"]
         }, {
             "name": "motionscan",
             "gem_name": "motionscan",
