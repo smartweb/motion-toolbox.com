@@ -90,7 +90,7 @@
                 </div>
               <% end %>
               <div class="wrapper-tags">
-                <% wrapper["tags"].each do |tag| %>
+                <% wrapper["tags"].uniq.each do |tag| %>
                   <div class="wrapper-tag">
                     <%= tag %>
                   </div>
