@@ -408,13 +408,13 @@
             "gem_name": false,
             "url": "https://github.com/IconoclastLabs/MotionTemplate",
             "description": "A clean RubyMotion project for quickly templating a styled application.",
-            "tags": ["Design", "Graphic"]
+            "tags": ["Design"]
         }, {
             "name": "ProMotion",
             "gem_name": false,
             "url": "https://github.com/jamonholmgren/promotion-template",
             "description": "Utlize the bells and whistles of ProMotion to hit the ground running.",
-            "tags": ["Design", "Graphic", "ProMotion"]
+            "tags": ["Design", "ProMotion"]
         }]
     }]
 }
