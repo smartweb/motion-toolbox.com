@@ -6,19 +6,19 @@
             "gem_name": "bubble-wrap",
             "url": "http://bubblewrap.io",
             "description": "A collection of (tested) helpers and wrappers used to wrap CocoaTouch code and provide more Ruby like APIs.",
-            "tags": ["JSON",  "HTTP", "RSS", "XML", "Camera", "CoreLocation", "Audio", "Video", "iOS", "OS X"]
+            "tags": ["JSON",  "HTTP", "RSS", "XML", "Camera", "CoreLocation", "Audio", "Video", "OS X", "Email", "UIColor", "Device", "Notifications", "Defaults", "Gestures", "Alerts"]
         }, {
             "name": "Sugarcube",
             "gem_name": "sugarcube",
             "url": "https://github.com/rubymotion/sugarcube",
             "description": "These extensions hope to make development in RubyMotion more enjoyable by tacking 'UI' methods onto the base classes (String, Fixnum, Numeric). With sugarcube, you can create a color from an integer or symbol, or create a UIFont or UIImage from a string.",
-            "tags": ["Animations", "CGRect", "UIImage", "UIColor", "NSString", "Symbol", "UIAlertView"]
+            "tags": ["Animations", "CGRect", "UIImage", "UIColor", "NSString", "Symbol", "Alerts"]
         }, {
             "name": "RubyMotionQuery - RMQ",
             "gem_name": "ruby_motion_query",
             "url": "http://infinitered.com/rmq",
             "description": "A light, non-magical, non-polluting, jQuery-like library",
-            "tags": ["Controllers", "Views", "Events", "Gestures", "Stylesheets", "iOS", "Animations", "UIImage", "UIColor", "UIFont", "Device", "App"]
+            "tags": ["Controllers", "Views", "Events", "Gestures", "Stylesheets", "Animations", "UIImage", "UIColor", "UIFont", "Device", "App"]
         }, {
             "name": "Elevate",
             "gem_name": "elevate",
@@ -30,7 +30,7 @@
             "gem_name": "nitron",
             "url": "https://github.com/mattgreen/nitron",
             "description": "Nitron is an opinionated, loosely-coupled set of RubyMotion components designed to accelerate iOS development, especially with simpler iOS apps.",
-            "tags": ["Models", "CoreData", "Bindings", "Storyboard"]
+            "tags": ["Models", "Core Data", "Bindings", "Storyboard"]
         }, {
             "name": "ProMotion",
             "gem_name": "ProMotion",
@@ -102,7 +102,7 @@
             "gem_name": "teacup",
             "url": "https://github.com/rubymotion/teacup",
             "description": "A community-driven DSL for creating user interfaces on the iPhone.",
-            "tags": ["Views", "Stylesheets", "iOS", "OS X"]
+            "tags": ["Views", "Stylesheets", "OS X"]
         }, {
             "name": "Geomotion",
             "gem_name": "geomotion",
@@ -135,25 +135,25 @@
             "gem_name": "motion-fixtures",
             "url": "https://github.com/farcaller/motion-fixtures",
             "description": "Simple support for test fixtures.",
-            "tags": ["Testing", "Fixtures"]
+            "tags": ["Fixtures"]
         }, {
             "name": "WebStub",
             "gem_name": "webstub",
             "url": "https://github.com/mattgreen/webstub",
             "description": "Easily stub out HTTP responses in RubyMotion specs.",
-            "tags": ["Testing", "HTTP", "Mock"]
+            "tags": ["HTTP", "Mock"]
         }, {
             "name": "motion-stump",
             "gem_name": "motion-stump",
             "url": "https://github.com/siuying/motion-stump",
             "description": "Stubbing and mocking for RubyMotion.",
-            "tags": ["Testing", "Mock"]
+            "tags": ["Mock"]
         }, {
             "name": "motion-frank",
             "gem_name": "motion-frank",
             "url": "https://github.com/cyrusinnovation/motion-frank",
             "description": "A gem to use integrate frank-cucumber into RubyMotion projects.",
-            "tags": ["Testing", "Cucumber"]
+            "tags": ["Cucumber"]
         }, {
             "name": "awesome_print_motion",
             "gem_name": "awesome_print_motion",
@@ -171,13 +171,13 @@
             "gem_name": "facon",
             "url": "https://github.com/chuyeow/facon",
             "description": "A port of Facon mocking library to RubyMotion.",
-            "tags": ["Testing", "Mock"]
+            "tags": ["Mock"]
         }, {
             "name": "guard-motion",
             "gem_name": "guard-motion",
             "url": "https://github.com/mordaroso/guard-motion",
             "description": "Guard::Motion automatically run your RubyMotion specs (much like autotest)",
-            "tags": ["Testing", "Spec"]
+            "tags": ["Spec"]
         }]
     }, {
         "name": "Project Management",
@@ -285,7 +285,7 @@
             "gem_name": "motion-addressbook",
             "url": "https://github.com/alexrothenberg/motion-addressbook",
             "description": "A RubyMotion wrapper around the iOS & OSX Address Book frameworks.",
-            "tags": ["Address", "AddressBookUI"]
+            "tags": ["AddressBookUI"]
         }, {
             "name": "motionscan",
             "gem_name": "motionscan",
@@ -315,13 +315,13 @@
             "gem_name": "joybox",
             "url": "https://github.com/rubymotion/Joybox",
             "description": "Cocos2D & Box2D Wrapper for RubyMotion.",
-            "tags": ["Video Games", "Cocos 2D", "Box 2D", "iOS", "OS X"]
+            "tags": ["Video Games", "Cocos 2D", "Box 2D", "OS X"]
         }, {
             "name": "Helu",
             "gem_name": "helu",
             "url": "https://github.com/ivanacostarubio/helu",
             "description": "A RubyMotion wrapper for the Store Kit Framework",
-            "tags": ["Store Kit", "In-App Purchases"]
+            "tags": ["StoreKit", "IAP"]
         }, {
             "name": "Motion-Social",
             "gem_name": "motion-social",
@@ -345,25 +345,25 @@
             "gem_name": "simple_si",
             "url": "https://github.com/forrestgrant/simple_si",
             "description": "A RubyMotion wrapper for SIAlertView",
-            "tags": ["Alert"]
+            "tags": ["Alerts"]
         }, {
             "name": "motion-phrase",
             "gem_name": "motion-phrase",
             "url": "https://github.com/phrase/motion-phrase",
             "description": "Connect your RubyMotion project with <a href=\"https://phraseapp.com\" target=\"_blank\">PhraseApp</a> for easy app internationalization. Translatable strings are exported while browsing the app and then managable through the PhraseApp translation editor.",
-            "tags": ["Internationalization", "i18n", "Localization", "l10n"]
+            "tags": ["i18n", "Localization"]
         }, {
             "name": "motion-accessibility",
             "description": "Making accessibility accessible. RubyMotion Wrappers around the UIAccessibility protocols. Easily interact with Apple's impressive array of assistive technologies, including VoiceOver.",
             "gem_name": "motion-accessibility",
             "url": "https://github.com/austinseraphin/motion-accessibility",
-            "tags": ["accessibility", "a11y", "voiceover"]
+            "tags": ["Accessibility", "Voiceover"]
         }, {
             "name": "motion-blitz",
             "description": "RubyMotion wrapper for SVProgressHUD",
             "gem_name": "motion-blitz",
             "url": "https://github.com/dblandin/motion-blitz",
-            "tags": ["Alert", "Progress", "Overlay"]
+            "tags": ["Alerts", "Progress", "Overlay"]
         }, {
             "name": "motion-objection",
             "description": "RubyMotion wrapper for Objection",
@@ -381,7 +381,7 @@
             "description": "Notifications for the statusbar.",
             "gem_name": "status_bar",
             "url": "https://github.com/holgersindbaek/StatusBar",
-            "tags": ["Alert", "Progress", "Overlay"]
+            "tags": ["Alerts", "Progress", "Overlay"]
         }, {
             "name": "motion-csv",
             "description": "A RubyMotion friendly CSV parser gem.",
@@ -399,7 +399,7 @@
             "description": "A RubyMotion StoreKit Wrapper that allows you to buy, restore and get product info on your in app purchases and subscriptions.",
             "gem_name": "rm_vendor",
             "url": "https://github.com/holgersindbaek/Vendor",
-            "tags": ["Store Kit", "Purchase", "In-App Purchase"]
+            "tags": ["StoreKit", "IAP"]
         }]
     }, {
         "name": "Templates",
@@ -408,13 +408,13 @@
             "gem_name": false,
             "url": "https://github.com/IconoclastLabs/MotionTemplate",
             "description": "A clean RubyMotion project for quickly templating a styled application.",
-            "tags": ["Design", "Graphic"]
+            "tags": ["Design"]
         }, {
             "name": "ProMotion",
             "gem_name": false,
             "url": "https://github.com/jamonholmgren/promotion-template",
             "description": "Utlize the bells and whistles of ProMotion to hit the ground running.",
-            "tags": ["Design", "Graphic", "ProMotion"]
+            "tags": ["Design", "ProMotion"]
         }]
     }]
 }
