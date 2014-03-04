@@ -400,6 +400,12 @@
             "gem_name": "rm_vendor",
             "url": "https://github.com/holgersindbaek/Vendor",
             "tags": ["StoreKit", "In App Purchase"]
+        }, {
+            "name": "Motion-Wiretap",
+            "gem_name": "motion-wiretap",
+            "url": "https://github.com/colinta/motion-wiretap",
+            "description": "A wrapper for KVO, gestures, UIControl events, and procs. Okay okay it's pretty much ReactiveCocoa in RubyMotion.",
+            "tags": ["KVO", "Notifications", "Gestures", "iOS", "OS X"]
         }]
     }, {
         "name": "Templates",
