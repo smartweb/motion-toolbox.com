@@ -18,7 +18,7 @@
             "gem_name": "motion-prime",
             "url": "http://prime.droidlabs.pro",
             "description": "MotionPrime is yet another framework written on RubyMotion for creating really fast iOS applications.",
-            "tags": ["Models", "Screens", "Style", "Sections", "Tables", "SlideMenu", "Bootstrap", "App"]
+            "tags": ["Models", "Screens", "Style", "Tables", "SlideMenu", "Bootstrap"]
         }, {
             "name": "RubyMotionQuery - RMQ",
             "gem_name": "ruby_motion_query",
@@ -49,24 +49,6 @@
             "url": "https://github.com/tkadauke/motion-support",
             "description": "A port of ActiveSupport to RubyMotion",
             "tags": ["Models", "Rails"]
-        }, {
-            "name": "Turnkey",
-            "gem_name": "turnkey",
-            "url": "https://github.com/seldomatt/TurnKey",
-            "description": "Utility for saving custom objects to NSUserDefaults using NSKeyedArchiver and NSKeyedUnarchiver",
-            "tags": ["Persistence", "Defaults", "NSCoder"]
-        }, {
-            "name": "motion-acknowledgements",
-            "gem_name": "motion-acknowledgements",
-            "url": "https://github.com/MohawkApps/motion-acknowledgements",
-            "description": "This gem makes it easy to include the CocoaPods acknowledgements file in your application.",
-            "tags": ["CocoaPods", "Settings", "Credits"]
-        }, {
-            "name": "motion-bindable",
-            "gem_name": "motion_bindable",
-            "url": "https://github.com/nathankot/motion-bindable",
-            "description": "Create two-way bindings between your models and view objects (or any other object.)",
-            "tags": ["Bindings"]
         }]
     }, {
         "name": "Models",
@@ -94,6 +76,18 @@
             "gem_name": "cdq",
             "description": "Easy-to-set-up library for using Core Data without Xcode",
             "tags": ["Models", "Core Data", "Schema", "Persistence"]
+        }, {
+            "name": "motion-bindable",
+            "gem_name": "motion_bindable",
+            "url": "https://github.com/nathankot/motion-bindable",
+            "description": "Create two-way bindings between your models and view objects (or any other object.)",
+            "tags": ["Bindings"]
+        }, {
+            "name": "Turnkey",
+            "gem_name": "turnkey",
+            "url": "https://github.com/seldomatt/TurnKey",
+            "description": "Utility for saving custom objects to NSUserDefaults using NSKeyedArchiver and NSKeyedUnarchiver",
+            "tags": ["Persistence", "Defaults", "NSCoder"]
         }]
     }, {
         "name": "Views",
@@ -328,6 +322,12 @@
             "url": "https://github.com/ivanacostarubio/helu",
             "description": "A RubyMotion wrapper for the Store Kit Framework",
             "tags": ["StoreKit", "In App Purchase"]
+        }, {
+            "name": "motion-acknowledgements",
+            "gem_name": "motion-acknowledgements",
+            "url": "https://github.com/MohawkApps/motion-acknowledgements",
+            "description": "This gem makes it easy to include the CocoaPods acknowledgements file in your application.",
+            "tags": ["CocoaPods", "Settings", "Credits"]
         }, {
             "name": "Motion-Social",
             "gem_name": "motion-social",
