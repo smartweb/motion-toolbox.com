@@ -87,6 +87,11 @@
             "url": "https://github.com/qrush/motion-layout",
             "description": "A nice way to use Auto Layout in your RubyMotion app.",
             "tags": ["Views", "Auto Layout"]
+        }, {
+            "name": "motion-stylez",
+            "url": "https://github.com/FluffyJack/motion-stylez",
+            "description": "RubyMotion stylesheet library based off RMQ",
+            "tags": ["Views", "Stylesheets"]
         }]
     }, {
         "name": "Testing",
@@ -286,6 +291,11 @@
             "description": "Notifications for the statusbar.",
             "url": "https://github.com/holgersindbaek/StatusBar",
             "tags": ["Alert", "Progress", "Overlay"]
+        }, {
+            "name": "motion-dynamic-type",
+            "url": "https://github.com/FluffyJack/motion-dynamic-type",
+            "description": "Simplifying even further iOS 7's Dynamic Type",
+            "tags": ["Fonts"]
         }]
     }, {
         "name": "Templates",
