@@ -127,6 +127,11 @@
             "url": "https://github.com/qrush/motion-layout",
             "description": "A nice way to use Auto Layout in your RubyMotion app.",
             "tags": ["Views", "Auto Layout"]
+        }, {
+            "name": "motion-stylez",
+            "url": "https://github.com/FluffyJack/motion-stylez",
+            "description": "RubyMotion stylesheet library based off RMQ",
+            "tags": ["Views", "Stylesheets"]
         }]
     }, {
         "name": "Testing",
@@ -412,6 +417,11 @@
             "url": "https://github.com/colinta/motion-wiretap",
             "description": "A wrapper for KVO, gestures, UIControl events, and procs. Okay okay it's pretty much ReactiveCocoa in RubyMotion.",
             "tags": ["KVO", "Notifications", "Gestures", "iOS", "OS X"]
+        }, {
+            "name": "motion-dynamic-type",
+            "url": "https://github.com/FluffyJack/motion-dynamic-type",
+            "description": "Simplifying even further iOS 7's Dynamic Type",
+            "tags": ["Fonts"]
         }]
     }, {
         "name": "Templates",
