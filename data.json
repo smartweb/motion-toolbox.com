@@ -42,7 +42,7 @@
             "gem_name": "ProMotion",
             "url": "https://github.com/clearsightstudio/ProMotion",
             "description": "A full featured RubyMotion framework that makes iPhone development less like Objective-C and more like Ruby, designed to get up and running fast.",
-            "tags": ["Storyboard", "Screens"]
+            "tags": ["Storyboard", "Screens", "ProMotion"]
         }, {
             "name": "motion-support",
             "gem_name": "motion-support",
@@ -432,7 +432,7 @@
             "description": "A clean RubyMotion project for quickly templating a styled application.",
             "tags": ["Design"]
         }, {
-            "name": "ProMotion",
+            "name": "promotion-template",
             "gem_name": false,
             "url": "https://github.com/jamonholmgren/promotion-template",
             "description": "Utlize the bells and whistles of ProMotion to hit the ground running.",
