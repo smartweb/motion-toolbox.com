@@ -340,6 +340,12 @@
             "description": "This gem makes it easy to include the CocoaPods acknowledgements file in your application.",
             "tags": ["CocoaPods", "Settings", "Credits"]
         }, {
+            "name": "motion-settings-bundle",
+            "gem_name": "motion-settings-bundle",
+            "url": "https://github.com/qrush/motion-settings-bundle",
+            "description": "Create a Settings.bundle for your RubyMotion app",
+            "tags": ["Settings"]
+        }, {
             "name": "Motion-Social",
             "gem_name": "motion-social",
             "url": "https://github.com/ivanacostarubio/motion-social",
