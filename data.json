@@ -412,6 +412,13 @@
             "url": "https://github.com/MohawkApps/motion-takeoff",
             "tags": ["Reminders", "UILocalNotification", "Scheduling"]
         }, {
+
+            "name": "motion-launchpad",
+            "description": "A gem providing a DSL allowing you to schedule events on specific launches of your application.  'motion-takeoff' only supplies displaying an alert, this gem executes any code block.",
+            "gem_name": "motion-launchpad",
+            "url": "https://github.com/macfanatic/motion-launchpad",
+            "tags": ["Scheduling"]
+        }, {
             "name": "Vendor",
             "description": "A RubyMotion StoreKit Wrapper that allows you to buy, restore and get product info on your in app purchases and subscriptions.",
             "gem_name": "rm_vendor",
