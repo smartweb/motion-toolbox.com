@@ -88,6 +88,12 @@
             "url": "https://github.com/seldomatt/TurnKey",
             "description": "Utility for saving custom objects to NSUserDefaults using NSKeyedArchiver and NSKeyedUnarchiver",
             "tags": ["Persistence", "Defaults", "NSCoder"]
+        }, {
+            "name": "yapper",
+            "gem_name": "motion-yapper",
+            "url": "https://github.com/kareemk/yapper",
+            "description": "ORM for YapDatabase which is schemaless, very fast (thanks to YapDatabase's architecture), has chainable criteria, one-many relationships, on-the-fly reindexing and is thread-safe.",
+            "tags": ["Models", "Persistence", "Schemaless"]
         }]
     }, {
         "name": "Views",
