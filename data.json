@@ -256,6 +256,12 @@
             "description": "An Active Record pattern for your Parse models.",
             "tags": ["Models", "Storage", "Parse"]
         }, {
+            "name": "motion-awesome",
+            "gem_name": "motion-awesome",
+            "url": "https://github.com/derailed/motion-awesome",
+            "description": "DSL to easily create buttons and labels using the wonderful font-awesome library from Twitter.",
+            "tags": ["Font Awesome", "UIFont", "Views"]
+        }, {
             "name": "Motion Parse",
             "gem_name": "motion-parse",
             "url": "https://github.com/tkadauke/motion-parse",
