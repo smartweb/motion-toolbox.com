@@ -49,6 +49,12 @@
             "url": "https://github.com/tkadauke/motion-support",
             "description": "A port of ActiveSupport to RubyMotion",
             "tags": ["Models", "Rails"]
+        }, {
+            "name": "motion-speech",
+            "gem_name": "motion-speech",
+            "url": "https://github.com/macfanatic/motion-speech",
+            "description": "Easy text-to-speech wrapper for AVSpeechSynthesizer in iOS 7.",
+            "tags": ["AVSpeechSynthesizer", "Speech", "text-to-speech"]
         }]
     }, {
         "name": "Models",
