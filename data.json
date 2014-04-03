@@ -453,6 +453,12 @@
             "url": "https://github.com/FluffyJack/motion-dynamic-type",
             "description": "Simplifying even further iOS 7's Dynamic Type",
             "tags": ["Fonts"]
+        }, {
+            "name": "meteor-motion",
+            "gem_name": "meteor-motion",
+            "url": "https://github.com/whitesmith/meteor-motion",
+            "description": "A wrapper for Meteor DDP with support for Motion Model",
+            "tags": ["Meteor", "DDP", "MotionModel", "Model", "Client"]
         }]
     }, {
         "name": "Templates",
