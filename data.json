@@ -271,7 +271,7 @@
             "name": "motion-awesome",
             "gem_name": "motion-awesome",
             "url": "https://github.com/derailed/motion-awesome",
-            "description": "DSL to easily create buttons and labels using the wonderful font-awesome library from Twitter.",
+            "description": "DSL to easily create buttons and labels using the wonderful font-awesome library.",
             "tags": ["Font Awesome", "UIFont", "Views"]
         }, {
             "name": "Motion Parse",
