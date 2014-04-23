@@ -144,6 +144,11 @@
             "url": "https://github.com/FluffyJack/motion-stylez",
             "description": "RubyMotion stylesheet library based off RMQ",
             "tags": ["Views", "Stylesheets"]
+        }, {
+            "name": "motion-form",
+            "url": "https://github.com/dblandin/motion-form",
+            "description": "RubyMotion forms made easy",
+            "tags": ["Views", "Forms", "UIViewController"]
         }]
     }, {
         "name": "Testing",
