@@ -479,6 +479,12 @@
             "url": "https://github.com/jamonholmgren/promotion-template",
             "description": "Utlize the bells and whistles of ProMotion to hit the ground running.",
             "tags": ["Design", "ProMotion"]
+        }, {
+            "name": "rubymotion_generators",
+            "gem_name": "rubymotion_generators",
+            "url": "https://github.com/andyw8/rubymotion_generators",
+            "description": "Provides boilerplate code templates for RubyMotion",
+            "tags": ["Design", "Templates"]
         }]
     }]
 }
