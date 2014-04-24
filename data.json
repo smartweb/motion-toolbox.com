@@ -251,6 +251,12 @@
             "url": "https://github.com/usepropeller/motion-screenshots",
             "description": "Automatic screenshots for your RubyMotion apps",
             "tags": ["Screenshots", "App Store", "Automation"]
+        }, {
+            "name": "motion-my_env",
+            "gem_name": "motion-my_env",
+            "url": "https://github.com/ainame/motion-my_env",
+            "description": "Simple environment variable solution for RubyMotion",
+            "tags": ["Build", "Environment", "Configuration"]
         }]
     }, {
         "name": "Specific",
