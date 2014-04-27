@@ -480,6 +480,12 @@
             "url": "https://github.com/kastiglione/motion.h",
             "description": "Expose iOS and OS X system libraries in RubyMotion.",
             "tags": ["BridgeSupport", "iOS", "OS X"]
+        }, {
+            "name": "motion-sqlite3",
+            "gem_name": "motion-sqlite3",
+            "url": "https://github.com/mattgreen/motion-sqlite3",
+            "description": "A minimal wrapper over the SQLite 3 C API for RubyMotion",
+            "tags": ["SQLite", "Persistence"]
         }]
     }, {
         "name": "Templates",
