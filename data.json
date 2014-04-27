@@ -446,7 +446,6 @@
             "url": "https://github.com/MohawkApps/motion-takeoff",
             "tags": ["Reminders", "UILocalNotification", "Scheduling"]
         }, {
-
             "name": "motion-launchpad",
             "description": "A gem providing a DSL allowing you to schedule events on specific launches of your application.  'motion-takeoff' only supplies displaying an alert, this gem executes any code block.",
             "gem_name": "motion-launchpad",
@@ -475,6 +474,12 @@
             "url": "https://github.com/whitesmith/meteor-motion",
             "description": "A wrapper for Meteor DDP with support for Motion Model",
             "tags": ["Meteor", "DDP", "MotionModel", "Model", "Client"]
+        }, {
+            "name": "motion.h",
+            "gem_name": "motion.h",
+            "url": "https://github.com/kastiglione/motion.h",
+            "description": "Expose iOS and OS X system libraries in RubyMotion.",
+            "tags": ["BridgeSupport", "iOS", "OS X"]
         }]
     }, {
         "name": "Templates",
