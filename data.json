@@ -486,6 +486,12 @@
             "url": "https://github.com/mattgreen/motion-sqlite3",
             "description": "A minimal wrapper over the SQLite 3 C API for RubyMotion",
             "tags": ["SQLite", "Persistence"]
+        }, {
+            "name": "motion-egg",
+            "gem_name": "motion-egg",
+            "url": "https://github.com/GantMan/motion-egg",
+            "description": "Add an Easter egg to your app",
+            "tags": ["Easter Egg"]
         }]
     }, {
         "name": "Templates",
