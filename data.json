@@ -154,6 +154,12 @@
             "url": "https://github.com/FluffyJack/MIMInputToolbar",
             "description": "Input accessory view for your UITextFields and UITextViews.",
             "tags": ["Views", "UITextField", "UITextView"]
+        }, {
+            "name": "motion-wizard",
+            "gem_name": "motion-wizard",
+            "url": "https://github.com/ijpiantanida/motion-wizard",
+            "description": "A gem to create wizard like view controllers in iOS",
+            "tags": ["Views", "Wizard"]
         }]
     }, {
         "name": "Testing",
