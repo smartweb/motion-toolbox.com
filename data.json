@@ -492,6 +492,12 @@
             "url": "https://github.com/GantMan/motion-egg",
             "description": "Add an Easter egg to your app",
             "tags": ["Easter Egg"]
+        }, {
+            "name": "under-os-image",
+            "gem_name": "under-os-image",
+            "url": "https://github.com/under-os/under-os-image",
+            "description": "The new simplified images processing API for the http://under-os.com/ project",
+            "tags": ["UnderOS", "UIImage", "CoreImage"]
         }]
     }, {
         "name": "Templates",
