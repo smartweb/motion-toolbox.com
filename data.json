@@ -504,6 +504,12 @@
             "url": "https://github.com/under-os/under-os-image",
             "description": "The new simplified images processing API for the http://under-os.com/ project",
             "tags": ["UnderOS", "UIImage", "CoreImage"]
+        }, {
+            "name": "motion-distance",
+            "gem_name": "motion-distance",
+            "url": "https://github.com/willrax/motion-distance",
+            "description": "Easy distance tracking for RubyMotion projects.",
+            "tags": ["CoreLocation"]
         }]
     }, {
         "name": "Templates",
