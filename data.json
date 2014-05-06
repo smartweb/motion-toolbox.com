@@ -516,6 +516,12 @@
             "url": "https://github.com/willrax/motion-distance",
             "description": "Easy distance tracking for RubyMotion projects.",
             "tags": ["CoreLocation"]
+        }, {
+            "name": "motion-installr",
+            "gem_name": "motion-installr",
+            "url": "https://github.com/FluffyJack/motion-installr",
+            "description": "Ad-hoc deployment using the amazing Installr service! https://www.installrapp.com/",
+            "tags": ["Installr", "Distribution", "Deployment"]
         }]
     }, {
         "name": "Templates",
