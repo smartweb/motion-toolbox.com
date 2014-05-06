@@ -160,6 +160,12 @@
             "url": "https://github.com/ijpiantanida/motion-wizard",
             "description": "A gem to create wizard like view controllers in iOS",
             "tags": ["Views", "Wizard"]
+        }, {
+            "name": "MotionKit",
+            "gem_name": "motion-kit",
+            "url": "https://github.com/rubymotion/motion-kit",
+            "description": "The RubyMotion layout and styling gem.",
+            "tags": ["Views", "Stylesheets", "iOS", "OS X"]
         }]
     }, {
         "name": "Testing",
