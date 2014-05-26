@@ -166,6 +166,12 @@
             "url": "https://github.com/rubymotion/motion-kit",
             "description": "The RubyMotion layout and styling gem.",
             "tags": ["Views", "Stylesheets", "iOS", "OS X"]
+        }, {
+            "name": "MenuMotion",
+            "gem_name": "menu-motion",
+            "url": "https://github.com/codelation/menu-motion",
+            "description": "A RubyMotion wrapper for creating OS X status bar menus",
+            "tags": ["Views", "NSMenu", "OS X"]
         }]
     }, {
         "name": "Testing",
