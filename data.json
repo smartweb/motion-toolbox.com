@@ -170,7 +170,7 @@
             "name": "MenuMotion",
             "gem_name": "menu-motion",
             "url": "https://github.com/codelation/menu-motion",
-            "description": "A RubyMotion wrapper for creating OS X status bar menus",
+            "description": "A RubyMotion wrapper for creating OS X menus",
             "tags": ["Views", "NSMenu", "OS X"]
         }]
     }, {
