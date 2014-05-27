@@ -55,6 +55,12 @@
             "url": "https://github.com/macfanatic/motion-speech",
             "description": "Easy text-to-speech wrapper for AVSpeechSynthesizer in iOS 7.",
             "tags": ["AVSpeechSynthesizer", "Speech", "text-to-speech"]
+        }, {
+            "name": "motion-hybrid",
+            "gem_name": "motion-hybrid",
+            "url": "https://github.com/balvig/motion-hybrid",
+            "description": "RubyMotion framework for easily making hybrid webview-centric iOS apps",
+            "tags": ["Rails", "Screens", "ProMotion"]
         }]
     }, {
         "name": "Models",
