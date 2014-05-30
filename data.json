@@ -286,6 +286,12 @@
             "url": "https://github.com/ainame/motion-my_env",
             "description": "Simple environment variable solution for RubyMotion",
             "tags": ["Build", "Environment", "Configuration"]
+        }, {
+            "name": "motion-reveal",
+            "gem_name": "motion-reveal",
+            "url": "https://github.com/diogoandre/motion-reveal",
+            "description": "Easy way to add the Reveal framework to your Rubymotion project",
+            "tags": ["Inspector", "Debug"]
         }]
     }, {
         "name": "Specific",
