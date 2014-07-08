@@ -25,7 +25,7 @@
             "url": "http://prime.droidlabs.pro",
             "description": "MotionPrime is yet another framework written on RubyMotion for creating really fast iOS applications.",
             "tags": ["Models", "Screens", "Style", "Tables", "SlideMenu", "Bootstrap"]
-        }, {            
+        }, {
             "name": "RubyMotionQuery - RMQ",
             "gem_name": "ruby_motion_query",
             "url": "http://infinitered.com/rmq",
