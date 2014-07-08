@@ -14,12 +14,18 @@
             "description": "These extensions hope to make development in RubyMotion more enjoyable by tacking 'UI' methods onto the base classes (String, Fixnum, Numeric). With sugarcube, you can create a color from an integer or symbol, or create a UIFont or UIImage from a string.",
             "tags": ["Animations", "CGRect", "UIImage", "UIColor", "NSString", "Symbol", "Alerts"]
         }, {
+            "name": "motion-keychain",
+            "gem_name": "motion-keychain",
+            "url": "https://github.com/IconoclastLabs/motion-keychain",
+            "description": "The motion-keychain gem is a simple wrapper for Keychain on iOS and OS X. Makes using Keychain APIs as easy as NSUserDefaults.",
+            "tags": ["Configuration", "Concurrency", "Keychain", "iOS", "Storage", "Security"]
+        }, {
             "name": "MotionPrime",
             "gem_name": "motion-prime",
             "url": "http://prime.droidlabs.pro",
             "description": "MotionPrime is yet another framework written on RubyMotion for creating really fast iOS applications.",
             "tags": ["Models", "Screens", "Style", "Tables", "SlideMenu", "Bootstrap"]
-        }, {
+        }, {            
             "name": "RubyMotionQuery - RMQ",
             "gem_name": "ruby_motion_query",
             "url": "http://infinitered.com/rmq",
