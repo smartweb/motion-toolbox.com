@@ -13,7 +13,7 @@ $(function () {
   });
 
   tags = tags.sort(function(a, b) {
-    return a.toLowerCase().localeCompare(b.toLowerCase());
+    return a.toLowerCase() > b.toLowerCase();
   }); // Sort 'em!
 
   // Append them to the dom
