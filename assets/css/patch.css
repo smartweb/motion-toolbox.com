@@ -31,7 +31,7 @@ code {
 
 /* line 46, ../assets/css/patch.scss */
 .headline h1 {
-  font-size: 25px;
+  font-size: 30px;
   line-height: 36px;
   margin-top: 0px;
   margin-bottom: 0px; }
@@ -248,8 +248,9 @@ code {
 .sidebar {
   /* shadow: */
   background: #ffffff;
-  overflow: auto; }
-  /* line 295, ../assets/css/patch.scss */
+  overflow: auto;
+  overflow-x: hidden; }
+  /* line 296, ../assets/css/patch.scss */
   .sidebar .filters {
     max-height: 200px;
     overflow: scroll;
@@ -262,17 +263,17 @@ code {
       box-shadow: -4px 0px 14px 0px rgba(0, 0, 0, 0.5);
       overflow: scroll;
       max-height: 100%; }
-      /* line 308, ../assets/css/patch.scss */
+      /* line 309, ../assets/css/patch.scss */
       .sidebar .filters {
         max-height: none;
         overflow: auto; } }
 
-/* line 315, ../assets/css/patch.scss */
+/* line 316, ../assets/css/patch.scss */
 .modal-content {
   border-radius: 0px;
   -moz-box-shadow: none;
   -webkit-box-shadow: none;
   box-shadow: none; }
-  /* line 321, ../assets/css/patch.scss */
+  /* line 322, ../assets/css/patch.scss */
   .modal-content li {
     line-height: 30px; }
