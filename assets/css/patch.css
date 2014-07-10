@@ -290,6 +290,7 @@ code {
   .sidebar .filters {
     max-height: 200px;
     overflow: scroll;
+    overflow-x: hidden;
     -webkit-overflow-scrolling: touch; }
   @media (min-width: 992px) {
     /* line 325, ../assets/css/patch.scss */
@@ -299,17 +300,18 @@ code {
       box-shadow: -4px 0px 14px 0px rgba(0, 0, 0, 0.5);
       overflow: scroll;
       max-height: 100%; }
-      /* line 344, ../assets/css/patch.scss */
+      /* line 345, ../assets/css/patch.scss */
       .sidebar .filters {
         max-height: none;
-        overflow: auto; } }
+        overflow: auto;
+        overflow-x: hidden; } }
 
-/* line 351, ../assets/css/patch.scss */
+/* line 353, ../assets/css/patch.scss */
 .modal-content {
   border-radius: 0px;
   -moz-box-shadow: none;
   -webkit-box-shadow: none;
   box-shadow: none; }
-  /* line 357, ../assets/css/patch.scss */
+  /* line 359, ../assets/css/patch.scss */
   .modal-content li {
     line-height: 30px; }
