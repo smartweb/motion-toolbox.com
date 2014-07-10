@@ -1,0 +1,36 @@
+<div class="wrapper-info">
+  <div class="wrapper-title">
+    <h3><a href="<%= wrapper["url"] %>" target="_blank"><%= wrapper["name"] %></a></h3>
+  </div>
+  <div class="wrapper-platforms">
+    <% wrapper['platforms'].each_with_index do |platform, index| %>
+      <% suffix = "" %>
+      <% suffix = ", " if index != wrapper['platforms'].size - 1 %>
+      <span class="platform"><%= platform %><%= suffix %></span>
+    <% end %>
+  </div>
+  <div class="wrapper-body">
+    <%= wrapper["description"] %>
+  </div>
+  <% if wrapper["gem_name"] %>
+    <div class="wrapper-gem">
+      <code><a target="_blank" href="http://rubygems.org/gems/<%= wrapper['gem_name'] %>">gem install <%= wrapper["gem_name"] %></a></code>
+    </div>
+  <% end %>
+  <div class="wrapper-tags">
+    <a class="wrapper-tags-label" href="javascript:void(0)">Tags</a>
+    <div class="wrapper-tags-list">
+      <table>
+      <% wrapper["tags"].uniq.each_slice(3).each do |tag_row| %>
+        <tr>
+          <% tag_row.each do |tag| %>
+            <td class="wrapper-tag">
+              <%= tag %>
+            </td>
+          <% end %>
+        </tr>
+      <% end %>
+      </table>
+    </div>
+  </div>
+</div>
