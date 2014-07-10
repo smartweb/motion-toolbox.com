@@ -331,6 +331,7 @@ code {
     .filters {
         max-height: 200px;
         overflow: scroll;
+        overflow-x: hidden;
         -webkit-overflow-scrolling: touch;
     }
 
@@ -344,6 +345,7 @@ code {
         .filters {
             max-height: none;
             overflow: auto;
+            overflow-x: hidden;
         }
     }
 }
