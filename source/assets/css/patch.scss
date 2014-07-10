@@ -44,7 +44,7 @@ code {
 }
 
 .headline h1 {
-    font-size: 25px;
+    font-size: 30px;
     line-height: 36px;
     margin-top: 0px;
     margin-bottom: 0px;
@@ -291,6 +291,7 @@ code {
     /* shadow: */
     background: #ffffff;
     overflow: auto;
+    overflow-x: hidden;
 
     .filters {
         max-height: 200px;
