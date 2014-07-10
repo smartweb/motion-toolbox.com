@@ -1,131 +1,278 @@
-#fork-me {
-    position: fixed; /* options: fixed, absolute */
-    top: 0;
-    right: 0;
-    z-index: 9999;
-    width: 140px;
-    height: 140px;
-    text-indent: -9999px;
-    background-image: url("https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png");
-}
+/* line 15, ../assets/css/patch.scss */
+body {
+  font-size: 15px;
+  line-height: 22px;
+  background: #f2f2f2;
+  color: #333333;
+  font-family: "BrandonGrotesque-Regular", Avenir, Arial, sans-serif; }
 
-@media (max-width: 979px) {
-    .container {
-        padding-top: 15px;
-    }
-}
+/* line 23, ../assets/css/patch.scss */
+strong, h1, h2, h3, h4, h5 {
+  color: #3A3A3C; }
 
-.twitter-follow-button, .twitter-share-button {
-    position: relative;
-    top: 5px;
-}
+/* line 27, ../assets/css/patch.scss */
+a {
+  color: #3071b3; }
 
+/* line 31, ../assets/css/patch.scss */
+code {
+  font-size: 12px;
+  padding: 2px 9px;
+  border-radius: 8px;
+  /* Rectangle 287: */
+  background: #F2F2F2;
+  border: 1px solid #E7E7E7; }
+
+/* line 40, ../assets/css/patch.scss */
 .headline {
-    text-align: center;
-}
+  padding-top: 39px;
+  padding-bottom: 38px;
+  text-align: center; }
 
+/* line 46, ../assets/css/patch.scss */
 .headline h1 {
-    font-size: 3rem;
-    line-height: 1;
-    letter-spacing: -1px;
-    margin-bottom: 0px;
-}
+  font-size: 25px;
+  line-height: 36px;
+  margin-top: 0px;
+  margin-bottom: 0px; }
 
+/* line 53, ../assets/css/patch.scss */
+.headline h2 {
+  margin-bottom: 19px; }
+
+/* line 57, ../assets/css/patch.scss */
+.headline h2, .headline p {
+  font-family: "BrandonGrotesque-Light", Avenir, Arial, sans-serif;
+  color: #333333;
+  margin-top: 11px;
+  font-size: 18px;
+  font-weight: 200;
+  line-height: 27px; }
+
+/* line 66, ../assets/css/patch.scss */
 .headline p {
-    font-size: 18px;
-    font-weight: 200;
-    line-height: 27px;
-}
+  font-size: 13px;
+  line-height: 21px;
+  margin: 0px; }
 
+@media (min-width: 992px) {
+  /* line 74, ../assets/css/patch.scss */
+  .wrappers-column-0 {
+    padding-left: 35px;
+    padding-right: 3px; }
+
+  /* line 79, ../assets/css/patch.scss */
+  .wrappers-column-1 {
+    padding-left: 3px;
+    padding-right: 35px; }
+    /* line 82, ../assets/css/patch.scss */
+    .wrappers-column-1.adjusted {
+      padding-left: 35px;
+      padding-right: 3px; } }
+/* line 89, ../assets/css/patch.scss */
 .wrapper-info {
-    padding: 0px;
+  margin: 0px;
+  margin-bottom: 6px;
+  padding: 20px;
+  background: #ffffff; }
+  /* line 95, ../assets/css/patch.scss */
+  .wrapper-info .wrapper-title {
+    margin-bottom: 4px; }
+    /* line 96, ../assets/css/patch.scss */
+    .wrapper-info .wrapper-title * {
+      margin: 0px;
+      font-size: 25px;
+      line-height: 36px; }
+  /* line 104, ../assets/css/patch.scss */
+  .wrapper-info .wrapper-platforms {
+    color: #1abc9c;
+    margin-bottom: 8px; }
+    /* line 108, ../assets/css/patch.scss */
+    .wrapper-info .wrapper-platforms .platform {
+      margin-right: 2px; }
+  /* line 113, ../assets/css/patch.scss */
+  .wrapper-info .wrapper-body {
+    color: #3A3A3C;
+    margin-bottom: 20px; }
+  /* line 118, ../assets/css/patch.scss */
+  .wrapper-info .wrapper-gem {
+    margin-bottom: 20px; }
+  /* line 122, ../assets/css/patch.scss */
+  .wrapper-info .wrapper-tags {
+    position: relative; }
+  /* line 126, ../assets/css/patch.scss */
+  .wrapper-info .wrapper-tags-label {
+    color: #333333; }
+    /* line 128, ../assets/css/patch.scss */
+    .wrapper-info .wrapper-tags-label:hover {
+      text-decoration: none; }
+    /* line 132, ../assets/css/patch.scss */
+    .wrapper-info .wrapper-tags-label:after, .wrapper-info .wrapper-tags-label:before {
+      left: -9px;
+      top: 8px;
+      border: solid transparent;
+      content: " ";
+      height: 0;
+      width: 0;
+      position: absolute;
+      pointer-events: none; }
+    /* line 143, ../assets/css/patch.scss */
+    .wrapper-info .wrapper-tags-label:after {
+      width: 0;
+      height: 0;
+      border-style: solid;
+      border-width: 3px 0 3px 6px;
+      border-color: transparent transparent transparent #d8d8d8; }
+    /* line 152, ../assets/css/patch.scss */
+    .wrapper-info .wrapper-tags-label.active:after {
+      width: 0;
+      height: 0;
+      border-style: solid;
+      border-width: 6px 3px 0 3px;
+      border-color: #d8d8d8 transparent transparent transparent; }
+  /* line 162, ../assets/css/patch.scss */
+  .wrapper-info .wrapper-tags-list {
+    margin-top: 10px; }
+    /* line 164, ../assets/css/patch.scss */
+    .wrapper-info .wrapper-tags-list table {
+      width: 100%; }
+      /* line 166, ../assets/css/patch.scss */
+      .wrapper-info .wrapper-tags-list table td {
+        width: 33%;
+        padding-bottom: 2px;
+        font-size: 13px;
+        line-height: 23px; }
 
-    border: 1px solid #bbb;
-    /* fallback/image non-cover color */
-    background-color: #fdfdfd;
-    /* Firefox 3.6+ */
-    background-image: -moz-linear-gradient(#fdfdfd, #fafafa);
-    /* Safari 4+, Chrome 1+ */
-    background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#fdfdfd), to(#fafafa));
-    /* Safari 5.1+, Chrome 10+ */
-    background-image: -webkit-linear-gradient(#fdfdfd, #fafafa);
-    /* Opera 11.10+ */
-    background-image: -o-linear-gradient(#fdfdfd, #fafafa);
-    -moz-border-radius: 4px;
-    -webkit-border-radius: 4px;
-    border-radius: 4px;
-
-    -moz-box-shadow: 0 1px 4px #ccc;
-    -webkit-box-shadow: 0 1px 4px #ccc;
-    box-shadow: 0 1px 4px #ccc;
-    -ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=90, Color='$color')";
-
-    transition: border linear 0.2s, box-shadow linear 0.2s;
-    -webkit-transition: border linear 0.2s, box-shadow linear 0.2s;
-    -moz-transition: border linear 0.2s, box-shadow linear 0.2s;
-    -ms-transition: border linear 0.2s, box-shadow linear 0.2s;
-    -o-transition: border linear 0.2s, box-shadow linear 0.2s;
-}
-
-.wrapper-title {
-    padding: 5px 19px;
-    border-bottom: 1px solid #eee;
-    font-weight: bold;
-}
-
-.wrapper-body, .wrapper-gem {
-    padding: 19px;
-    border-bottom: 1px solid #eee;
-}
-
-.wrapper-tags {
-    padding: 10px 19px 0px 19px;
-}
-
-.wrapper-tag {
-    background-color: #D9EDF7;
-    -moz-border-radius: 8px;
-    -webkit-border-radius: 8px;
-    border-radius: 8px;
-
-    display: inline-block;
-    padding: 2px 6px;
-
-    border: 1px solid #BCE8F1;
-
-    color:#3A87AD;
-
-    margin-right: 5px;
-    margin-bottom: 10px;
-}
-
-
-.wrapper-info:hover {
-  border-color: rgba(82, 168, 236, 0.8);
-  outline: 0;
-  outline: thin dotted \9;
-  /* IE6-9 */
-
-  /*-webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(82,168,236,.6);
-  -moz-box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(82,168,236,.6);*/
-  box-shadow: 0 1px 4px rgba(82,168,236,.6);
-}
-
+/* line 180, ../assets/css/patch.scss */
 .category-info {
-    margin-bottom: 10px;
-}
-
-.category-info h2 {
-    float:left;
-    font-weight:200;
+  padding-top: 39px;
+  margin-bottom: 16px; }
+  /* line 184, ../assets/css/patch.scss */
+  .category-info h2 {
+    margin: 0px;
     margin-right: 10px;
-}
+    font-size: 22px;
+    color: #9a9a9a;
+    line-height: 31px; }
+
+/* line 193, ../assets/css/patch.scss */
+.filters {
+  background: #f2f2f2; }
+  /* line 196, ../assets/css/patch.scss */
+  .filters table {
+    background: white;
+    width: 100%;
+    table-layout: fixed;
+    word-wrap: break-word; }
+    /* line 202, ../assets/css/patch.scss */
+    .filters table tr {
+      border-bottom-width: 2px;
+      border-bottom-color: #f2f2f2;
+      border-bottom-style: solid; }
+    /* line 208, ../assets/css/patch.scss */
+    .filters table tr td:last-child {
+      border-right-width: 0px; }
+    /* line 212, ../assets/css/patch.scss */
+    .filters table td {
+      background: white;
+      text-align: center;
+      padding: 20px 0px;
+      border-right-color: #f2f2f2;
+      border-right-width: 2px;
+      border-right-style: solid;
+      width: 33%; }
+      /* line 221, ../assets/css/patch.scss */
+      .filters table td:hover, .filters table td *:hover {
+        cursor: pointer; }
+
+/* line 229, ../assets/css/patch.scss */
+.filter-platforms td {
+  color: #1abc9c; }
+  /* line 231, ../assets/css/patch.scss */
+  .filter-platforms td.active {
+    background: #1abc9c;
+    color: white; }
+
+/* line 229, ../assets/css/patch.scss */
+.filter-tags td {
+  color: #e74c3c; }
+  /* line 231, ../assets/css/patch.scss */
+  .filter-tags td.active {
+    background: #e74c3c;
+    color: white; }
+
+/* line 246, ../assets/css/patch.scss */
+.filter-group-title {
+  font-size: 13px;
+  color: #9a9a9a;
+  line-height: 19px;
+  padding-left: 9px;
+  margin-top: 17px;
+  margin-bottom: 9px; }
 
 /* Tags */
+/* line 257, ../assets/css/patch.scss */
 .tag-search .wrapper-tag {
-  cursor: pointer;
-}
+  cursor: pointer; }
+/* line 260, ../assets/css/patch.scss */
 .tag-search .wrapper-tag.active {
   background-color: #3A87AD;
+  color: #FFFFFF; }
+
+/* line 267, ../assets/css/patch.scss */
+#fork-me {
+  display: none;
+  position: fixed;
+  /* options: fixed, absolute */
+  top: 40px;
+  right: -75px;
+  z-index: 9999;
+  background: #3071B3;
+  -moz-box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.5);
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.5);
   color: #FFFFFF;
-}
+  line-height: 37px;
+  width: 270px;
+  text-align: center;
+  -ms-transform: rotate(45deg);
+  /* IE 9 */
+  -webkit-transform: rotate(45deg);
+  /* Chrome, Safari, Opera */
+  transform: rotate(45deg); }
+  @media (min-width: 992px) {
+    /* line 267, ../assets/css/patch.scss */
+    #fork-me {
+      display: initial; } }
+
+/* line 290, ../assets/css/patch.scss */
+.sidebar {
+  /* shadow: */
+  background: #ffffff;
+  overflow: auto; }
+  /* line 295, ../assets/css/patch.scss */
+  .sidebar .filters {
+    max-height: 200px;
+    overflow: scroll;
+    -webkit-overflow-scrolling: touch; }
+  @media (min-width: 992px) {
+    /* line 290, ../assets/css/patch.scss */
+    .sidebar {
+      position: fixed;
+      -moz-box-shadow: -4px 0px 14px 0px rgba(0, 0, 0, 0.5);
+      box-shadow: -4px 0px 14px 0px rgba(0, 0, 0, 0.5);
+      overflow: scroll;
+      max-height: 100%; }
+      /* line 308, ../assets/css/patch.scss */
+      .sidebar .filters {
+        max-height: none;
+        overflow: auto; } }
+
+/* line 315, ../assets/css/patch.scss */
+.modal-content {
+  border-radius: 0px;
+  -moz-box-shadow: none;
+  -webkit-box-shadow: none;
+  box-shadow: none; }
+  /* line 321, ../assets/css/patch.scss */
+  .modal-content li {
+    line-height: 30px; }
