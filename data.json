@@ -502,6 +502,20 @@
           ]
         },
         {
+          "name": "motion_print",
+          "gem_name": "motion_print",
+          "url": "https://github.com/MohawkApps/motion_print",
+          "description": "A RubyMotion friendly console logger and debugging tool. Use it to output pretty formatted objects to the REPL.",
+          "tags": [
+            "Debug",
+            "Logging"
+          ],
+          "platforms": [
+            "iOS",
+            "OS X"
+          ]
+        },
+        {
           "name": "awesome_print_motion",
           "gem_name": "awesome_print_motion",
           "url": "https://github.com/michaeldv/awesome_print_motion",
