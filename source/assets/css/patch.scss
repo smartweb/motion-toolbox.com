@@ -4,7 +4,7 @@
  * 
  * The fonts listed in this notice are subject to the End User License
  * Agreement(s) entered into by the website owner. All other parties are 
- * explicitly restricted from using the Licensed Webfonts(s).
+ * explicitly restricted from using the Licensed fonts(s).
  * 
  * You may obtain a valid license at the URLs below.
  * 
@@ -17,21 +17,21 @@
  * 
  * License: http://www.myfonts.com/viewlicense?type=web&buildid=2843878
  * Licensed pageviews: 10,000
- * Webfonts copyright: Copyright (c) 2009 by Hannes von Doehren. All rights reserved.
+ * fonts copyright: Copyright (c) 2009 by Hannes von Doehren. All rights reserved.
  * 
  * © 2014 MyFonts Inc
 */
 
 
 /* @import must be at top of file, otherwise CSS will not work */
-@import url("//hello.myfonts.net/count/2b64eF");
+@import url("//hello.myfonts.net/count/2b7454");
 
   
-@font-face {font-family: 'BrandonGrotesque-Regular';src: url('../fonts/2B64EF_0_0.eot');src: url('../fonts/2B64EF_0_0.eot?#iefix') format('embedded-opentype'),url('../fonts/2B64EF_0_0.woff') format('woff'),url('../fonts/2B64EF_0_0.ttf') format('truetype');}
+@font-face {font-family: 'BrandonGrotesque-Regular';src: url('../fonts/2B7454_0_0.eot');src: url('../fonts/2B7454_0_0.eot?#iefix') format('embedded-opentype'),url('../fonts/2B7454_0_0.woff') format('woff'),url('../fonts/2B7454_0_0.ttf') format('truetype');}
  
   
-@font-face {font-family: 'BrandonGrotesque-Light';src: url('../fonts/2B64EF_1_0.eot');src: url('../fonts/2B64EF_1_0.eot?#iefix') format('embedded-opentype'),url('../fonts/2B64EF_1_0.woff') format('woff'),url('../fonts/2B64EF_1_0.ttf') format('truetype');}
-
+@font-face {font-family: 'BrandonGrotesque-Light';src: url('../fonts/2B7454_1_0.eot');src: url('../fonts/2B7454_1_0.eot?#iefix') format('embedded-opentype'),url('../fonts/2B7454_1_0.woff') format('woff'),url('../fonts/2B7454_1_0.ttf') format('truetype');}
+ 
 
 @mixin light {
     font-family: "BrandonGrotesque-Light", Avenir, Arial, sans-serif;
