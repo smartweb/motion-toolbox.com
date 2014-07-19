@@ -1237,6 +1237,18 @@
           ]
         },
         {
+          "name": "motion-giphy",
+          "gem_name": "motion-giphy",
+          "url": "https://github.com/willrax/motion-giphy",
+          "description": "A nice wrapper around the http://giphy.com API.",
+          "tags": [
+            "API"
+          ],
+          "platforms": [
+            "iOS"
+          ]
+        },
+        {
           "name": "motion-installr",
           "gem_name": "motion-installr",
           "url": "https://github.com/FluffyJack/motion-installr",
