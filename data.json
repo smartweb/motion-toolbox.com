@@ -1261,6 +1261,14 @@
           "platforms": [
             "iOS"
           ]
+        },
+        {
+          "name": "motion-capture",
+          "gem_name": "motion-capture",
+          "url": "https://github.com/dblandin/motion-capture",
+          "description": "An AVFoundation wrapper to support custom camera controllers.",
+          "tags": ["AVFoundation", "Camera", "UIImage"],
+          "platforms": ["iOS"]
         }
       ]
     },
