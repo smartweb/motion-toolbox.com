@@ -382,6 +382,21 @@
           ]
         },
         {
+          "name": "better_toolbar",
+          "gem_name": "better_toolbar",
+          "url": "https://github.com/FluffyJack/better_toolbars",
+          "description": "A better way to work with toolbars",
+          "tags": [
+            "Views",
+            "Toolbars",
+            "UIToolbar",
+            "UIBarButtonItem"
+          ],
+          "platforms": [
+            "iOS"
+          ]
+        },
+        {
           "name": "motion-form",
           "url": "https://github.com/dblandin/motion-form",
           "description": "RubyMotion forms made easy",
