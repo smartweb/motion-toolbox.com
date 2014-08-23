@@ -186,6 +186,19 @@
           "platforms": [
             "iOS"
           ]
+        },
+        {
+          "name": "motion-pool",
+          "gem_name": "motion-pool",
+          "url": "https://github.com/wooandoo/motion-pool",
+          "description": "A pool for RubyMotion.",
+          "tags": [
+            
+          ],
+          "platforms": [
+            "iOS",
+			"OS X"
+          ]
         }
       ]
     },
