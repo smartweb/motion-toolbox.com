@@ -592,6 +592,19 @@
           "platforms": [
             "iOS"
           ]
+        },
+        {
+          "name": "motion-instabug",
+          "gem_name": "motion-instabug",
+          "url": "https://github.com/bmichotte/motion-instabug",
+          "description": "motion-instabug allows RubyMotion projects to easily embed the Instabug SDK and be submitted to the Instabug platform.",
+          "tags": [
+            "Debug",
+            "Logging"
+          ],
+          "platforms": [
+            "iOS"
+          ]
         }
       ]
     },
