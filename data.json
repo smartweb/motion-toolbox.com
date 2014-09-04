@@ -6,7 +6,7 @@
         {
           "name": "BubbleWrap",
           "gem_name": "bubble-wrap",
-          "url": "http://bubblewrap.io",
+          "url": "http://rubymotion.github.io/BubbleWrap",
           "description": "A collection of (tested) helpers and wrappers used to wrap CocoaTouch code and provide more Ruby like APIs.",
           "tags": [
             "JSON",
