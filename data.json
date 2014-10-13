@@ -197,7 +197,7 @@
           ],
           "platforms": [
             "iOS",
-			"OS X"
+      "OS X"
           ]
         }
       ]
@@ -1352,6 +1352,35 @@
           ],
           "platforms": [
             "iOS"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Samples",
+      "wrappers": [
+        {
+          "name": "RubyMotionSamples",
+          "gem_name": false,
+          "url": "https://github.com/HipByte/RubyMotionSamples",
+          "description": "A collection of RubyMotion applications for code samples. http://www.rubymotion.com",
+          "tags": [
+            "Samples"
+          ],
+          "platforms": [
+            "iOS", "Android"
+          ]
+        },
+        {
+          "name": "rubymotion-android-cookbook",
+          "gem_name": false,
+          "url": "https://github.com/IconoclastLabs/rubymotion-android-cookbook",
+          "description": "Awesome rm cookbook examples for android",
+          "tags": [
+            "Samples"
+          ],
+          "platforms": [
+            "Android"
           ]
         }
       ]
