@@ -794,6 +794,20 @@
           ]
         },
         {
+          "name": "LeanMotion",
+          "gem_name": "lean_motion",
+          "url": "https://github.com/smartweb/LeanMotion",
+          "description": "Make it more easy to use LeanCloud model.",
+          "tags": [
+            "Models",
+            "Storage",
+            "LeanCloud"
+          ],
+          "platforms": [
+            "iOS"
+          ]
+        },
+        {
           "name": "motion-awesome",
           "gem_name": "motion-awesome",
           "url": "https://github.com/derailed/motion-awesome",
